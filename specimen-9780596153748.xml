@@ -1,0 +1,2970 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><om:Product rdf:about="urn:x-domain:oreilly.com:product:9781449377267.SAF" xml:lang="en" xmlns:om="http://purl.oreilly.com/ns/meta/">
+    
+    <dc:isFormatOf rdf:resource="urn:x-domain:oreilly.com:product:9780596153755.IP" xmlns:dc="http://purl.org/dc/terms/"/>
+    
+    <om:endNewStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-02-01T00:00:00</om:endNewStatus>
+    <dc:abstract rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral" xmlns:dc="http://purl.org/dc/terms/">&lt;div&gt;&lt;p&gt;"This is teaching at its best!"&lt;br/&gt;&lt;br/&gt;
+--Hans Camenzind, inventor of the 555 timer (the world's most successful integrated circuit), and author of &lt;i&gt;Much Ado About Almost Nothing: Man's Encounter with the Electron&lt;/i&gt; (Booklocker.com)
+&lt;/p&gt;&lt;p&gt;
+"A fabulous book: well written, well paced, fun, and informative. I also love the sense of humor. It's very good at disarming the fear. And it's &lt;i&gt;gorgeous&lt;/i&gt;. I'll be recommending this book highly."&lt;br/&gt;&lt;br/&gt;
+--Tom Igoe, author of Physical Computing and Making Things Talk
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Want to learn the fundamentals of electronics in a fun, hands-on way? With &lt;i&gt;Make: Electronics&lt;/i&gt;, you'll start working on real projects as soon as you crack open the book. Explore all of the key components and essential principles through a series of fascinating experiments. You'll build the circuits first, &lt;i&gt;then&lt;/i&gt; learn the theory behind them! 
+&lt;/p&gt;&lt;p&gt;&lt;b&gt;Build working devices, from simple to complex&lt;/b&gt;
+You'll start with the basics and then move on to more complicated projects. Go from switching circuits to integrated circuits, and from simple alarms to programmable microcontrollers. Step-by-step instructions and more than 500 full-color photographs and illustrations will help you use -- and understand -- electronics concepts and techniques. 
+&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Discover by breaking things: experiment with components and learn from failure
+&lt;/li&gt;&lt;li&gt;Set up a tricked-out project space: make a work area at home, equipped with the tools and parts you'll need
+&lt;/li&gt;&lt;li&gt;Learn about key electronic components and their functions within a circuit
+&lt;/li&gt;&lt;li&gt;Create an intrusion alarm, holiday lights, wearable electronic jewelry, audio processors, a reflex tester, and a combination lock
+&lt;/li&gt;&lt;li&gt;Build an autonomous robot cart that can sense its environment and avoid obstacles
+&lt;/li&gt;&lt;li&gt;Get clear, easy-to-understand explanations of what you're doing and why&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</dc:abstract>
+    <om:division rdf:resource="http://purl.oreilly.com/divisions/DIS"/>
+    
+    <dc:identifier xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">http://purl.oreilly.com/identifiers/safari/fpi/9781449377267</dc:identifier>
+    <dc:identifier rdf:resource="urn:isbn:9781449377267" xmlns:dc="http://purl.org/dc/terms/"/>
+    
+    <om:imprint xml:lang="en">Maker Media, Inc</om:imprint>
+    
+    <dc:creator xmlns:dc="http://purl.org/dc/terms/">
+      <rdf:Seq rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9781449377267.SAF#creator">
+        <rdf:_1 rdf:resource="urn:x-domain:oreilly.com:agent:pdb:3468"/>
+      </rdf:Seq>
+    </dc:creator>
+    <om:subtitle xml:lang="en">Learning Through Discovery</om:subtitle>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date" xmlns:dc="http://purl.org/dc/terms/">2009-11-24</dc:issued>
+    
+    <trons:validAccordingTo rdf:resource="http://purl.oreilly.com/statuses/active" xmlns:trons="http://purl.oreilly.com/ns/trons/"/>
+    <trons:validAccordingTo rdf:resource="http://purl.oreilly.com/statuses/editorial" xmlns:trons="http://purl.oreilly.com/ns/trons/"/>
+    <trons:validAccordingTo rdf:resource="http://purl.oreilly.com/statuses/publicly-visible" xmlns:trons="http://purl.oreilly.com/ns/trons/"/>
+    
+    
+    
+    <dc:rightsHolder xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Helpful Corporation</dc:rightsHolder>
+    
+    <om:customerTitle xml:lang="en">Make: Electronics</om:customerTitle>
+    <dc:title xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Make: Electronics</dc:title>
+    
+    
+    
+    
+    <om:videoPreview xml:lang="en"/>
+    <marcrel:PBD rdf:resource="urn:x-domain:oreilly.com:agent:pdb:163" xmlns:marcrel="http://www.loc.gov/loc.terms/relators/"/>
+    
+    
+    <mods:edition xml:lang="en" xmlns:mods="http://www.loc.gov/mods/">1</mods:edition>
+    <om:approvedToAnnounceBy xml:lang="en">cindy</om:approvedToAnnounceBy>
+    
+    
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/InteractiveResource" xmlns:dc="http://purl.org/dc/terms/"/>
+    <dc:type rdf:resource="http://purl.oreilly.com/product-types/SAF" xmlns:dc="http://purl.org/dc/terms/"/>
+    <om:editionLabel xml:lang="en"/>
+    
+    <om:sortableTitle xml:lang="en">make: electronics</om:sortableTitle>
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/safari"/>
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/oreilly_com"/>
+    
+    <om:price>
+      <om:Subscription rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9781449377267.SAF#price-subscription">
+        <om:subscribeAt rdf:resource="http://my.safaribooksonline.com/9781449377267"/>
+      </om:Subscription>
+    </om:price>
+    
+    <om:imprint_short_name xml:lang="en">MMI</om:imprint_short_name>
+    <om:videoTableOfContents xml:lang="en"/>
+    
+    
+    <dc:format rdf:datatype="http://purl.org/dc/terms/IMT" xmlns:dc="http://purl.org/dc/terms/">text/html</dc:format>
+    
+    <om:beginUpcomingStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-08-01T00:00:00</om:beginUpcomingStatus>
+    
+    <dc:rights xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Access limited to subscribers</dc:rights>
+    
+    <om:primarySubject rdf:resource="http://purl.oreilly.com/resource-center/electronics"/>
+    
+    <dc:language xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">en-US</dc:language>
+    <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime" xmlns:dc="http://purl.org/dc/terms/">2014-01-04T08:09:11.362667+00:00</dc:modified>
+    
+    
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/3e66eea48a2defbfbdefbfbd4defbfbd3c3275efbfbd65?remote=urn:x-domain:oreilly.com:product:9781449377267.SAF">
+        <trons:becauseOf xml:lang="en">Product Status must be Pending.</trons:becauseOf>
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/stalled"/>
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/7954efbfbdefbfbd3a4fefbfbdefbfbd1eefbfbdefbfbd582e4b20?remote=urn:x-domain:oreilly.com:product:9781449377267.SAF">
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/editorial"/>
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</trons:isValid>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/583d25efbfbd713cefbfbd464befbfbde3c2b6959efbfbd?remote=urn:x-domain:oreilly.com:product:9781449377267.SAF">
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/publicly-visible"/>
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</trons:isValid>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbdefbfbd516323efbfbd57efbfbdefbfbd677718675ace8d?remote=urn:x-domain:oreilly.com:product:9781449377267.SAF">
+        <trons:becauseOf xml:lang="en">Only Books can go Out of Stock Indefinitely</trons:becauseOf>
+        <trons:becauseOf xml:lang="en">Product must have a printing status with the Oracle code Do Not Reprint or Out of Stock Indefinitely.</trons:becauseOf>
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/out-of-stock-indefinitely"/>
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbd12efbfbd3251627cbefbfbd3845efbfbdefbfbdefbfbd4f?remote=urn:x-domain:oreilly.com:product:9781449377267.SAF">
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/active"/>
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</trons:isValid>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbd5641efbfbdefbfbdefbfbdefbfbd4b34cefbfbdefbfbdefbfbd66efbfbd?remote=urn:x-domain:oreilly.com:product:9781449377267.SAF">
+        <trons:becauseOf xml:lang="en">                  Product status must be set to one of "Publication Cancelled", "Distribution Cancelled" or "No Longer ORM Publication" in the Product Database.             </trons:becauseOf>
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/discontinued"/>
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbdefbfbd7d4e5efbfbd2fefbfbdefbfbd2c543fefbfbdefbfbdefbfbdf?remote=urn:x-domain:oreilly.com:product:9781449377267.SAF">
+        <trons:becauseOf xml:lang="en">Book, PrintBookNonDistributable, DVD, Video, CD Bookshelf, PDF, EBOOK, MOBI, EPUB, EarlyReleaseEbook, AndroidApp or iPhoneApp must be Out of Print.</trons:becauseOf>
+        <trons:becauseOf xml:lang="en">Only Books, Non-distributable print books, DVDs, Videos, CD Bookshelfs, PDFs, EBOOKs, MOBIs, EPUBs, EarlyReleaseEbook, AndroidApps, and iPhoneApps can go Out Of Print.</trons:becauseOf>
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/out-of-print"/>
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbd41215f9346d322a5b4b625fefbfbd522f?remote=urn:x-domain:oreilly.com:product:9781449377267.SAF">
+        <trons:becauseOf xml:lang="en">Product must set as Cancelled in the Product Database.</trons:becauseOf>
+        <trons:becauseOf xml:lang="en">Product must NOT have been issued (published).</trons:becauseOf>
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/cancelled"/>
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+      </trons:Result>
+    </trons:validation>
+    
+    
+    <marcrel:EDT rdf:resource="urn:x-domain:oreilly.com:agent:pdb:163" xmlns:marcrel="http://www.loc.gov/loc.terms/relators/"/>
+    <marcrel:EDT rdf:resource="urn:x-domain:oreilly.com:agent:pdb:471" xmlns:marcrel="http://www.loc.gov/loc.terms/relators/"/>
+    <om:byline xml:lang="en">By Charles Platt</om:byline>
+    <om:editorTitle xml:lang="en">Make: Electronics</om:editorTitle>
+    
+    
+    <om:asciiTitle xml:lang="en">Make: Electronics</om:asciiTitle>
+    <om:projectManager rdf:resource="urn:x-domain:oreilly.com:agent:pdb:4798"/>
+    
+    <dc:publisher rdf:resource="http://purl.oreilly.com/publishers/MMI" xmlns:dc="http://purl.org/dc/terms/"/>
+    <dc:publisher xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Safari Books Online</dc:publisher>
+    <om:audience rdf:resource="http://purl.oreilly.com/audiences/"/>
+    
+    <dc:description rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral" xmlns:dc="http://purl.org/dc/terms/">&lt;div&gt;&lt;para/&gt;&lt;para&gt;
+Want to learn the fundamentals of electronics in a fun, hands-on
+way? With 
+&lt;emphasis&gt;Make: Electronics&lt;/emphasis&gt;
+, you'll start working on real
+projects as soon as you crack open the book. Explore all of the key
+components and essential principles through a series of fascinating
+experiments. You'll build the circuits first, 
+&lt;emphasis&gt;then&lt;/emphasis&gt;
+ learn the
+theory behind them!
+&lt;/para&gt;&lt;para&gt;&lt;emphasis role="bold"&gt;Build working devices, from simple to complex&lt;/emphasis&gt;
+
+You'll start with the basics and then move on to more complicated
+projects. Go from switching circuits to integrated circuits, and
+from simple alarms to programmable microcontrollers. Step-by-step
+instructions and more than 500 full-color photographs and
+illustrations will help you use -- and understand -- electronics
+concepts and techniques.
+&lt;/para&gt;&lt;itemizedlist&gt;&lt;listitem&gt;&lt;para&gt;
+Discover by breaking things: experiment with components and
+learn from failure
+&lt;/para&gt;&lt;/listitem&gt;&lt;listitem&gt;&lt;para&gt;
+Set up a tricked-out project space: make a work area at home,
+equipped with the tools and parts you'll need
+&lt;/para&gt;&lt;/listitem&gt;&lt;listitem&gt;&lt;para&gt;
+Learn about key electronic components and their functions
+within a circuit
+&lt;/para&gt;&lt;/listitem&gt;&lt;listitem&gt;&lt;para&gt;
+Create an intrusion alarm, holiday lights, wearable electronic
+jewelry, audio processors, a reflex tester, and a combination
+lock
+&lt;/para&gt;&lt;/listitem&gt;&lt;listitem&gt;&lt;para&gt;
+Build an autonomous robot cart that can sense its environment
+and avoid obstacles
+&lt;/para&gt;&lt;/listitem&gt;&lt;listitem&gt;&lt;para&gt;
+Get clear, easy-to-understand explanations of what you're doing
+and why
+&lt;/para&gt;&lt;/listitem&gt;&lt;/itemizedlist&gt;&lt;/div&gt;</dc:description>
+  </om:Product><om:Product rdf:about="urn:x-domain:oreilly.com:product:9781449382094.APP" xml:lang="en" xmlns:om="http://purl.oreilly.com/ns/meta/">
+    
+    
+    <om:videoPreview xml:lang="en"/>
+    <dc:isFormatOf rdf:resource="urn:x-domain:oreilly.com:product:9780596153755.IP" xmlns:dc="http://purl.org/dc/terms/"/>
+    <marcrel:EDT rdf:resource="urn:x-domain:oreilly.com:agent:pdb:471" xmlns:marcrel="http://www.loc.gov/loc.terms/relators/"/>
+    <marcrel:EDT rdf:resource="urn:x-domain:oreilly.com:agent:pdb:163" xmlns:marcrel="http://www.loc.gov/loc.terms/relators/"/>
+    
+    <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime" xmlns:dc="http://purl.org/dc/terms/">2014-01-04T08:09:02.533333+00:00</dc:modified>
+    
+    <trons:validAccordingTo rdf:resource="http://purl.oreilly.com/statuses/publicly-visible" xmlns:trons="http://purl.oreilly.com/ns/trons/"/>
+    <trons:validAccordingTo rdf:resource="http://purl.oreilly.com/statuses/editorial" xmlns:trons="http://purl.oreilly.com/ns/trons/"/>
+    
+    <dc:subject rdf:resource="http://www.bisg.org/standards/bisac_subject/TEC037000" xmlns:dc="http://purl.org/dc/terms/"/>
+    <dc:subject rdf:resource="http://www.bisg.org/standards/bisac_subject/TEC009000" xmlns:dc="http://purl.org/dc/terms/"/>
+    <dc:subject rdf:resource="http://www.bisg.org/standards/bisac_subject/TEC008010" xmlns:dc="http://purl.org/dc/terms/"/>
+    <dc:subject rdf:resource="http://oreilly.com/pdb/legacy/programSubject/SCI" xmlns:dc="http://purl.org/dc/terms/"/>
+    
+    
+    <marcrel:PBD rdf:resource="urn:x-domain:oreilly.com:agent:pdb:163" xmlns:marcrel="http://www.loc.gov/loc.terms/relators/"/>
+    
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/itunes"/>
+    
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/7954efbfbdefbfbd3a4fefbfbdefbfbd1eefbfbdefbfbd582e4b20?remote=urn:x-domain:oreilly.com:product:9781449382094.APP">
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/editorial"/>
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</trons:isValid>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbdefbfbd516323efbfbd57efbfbdefbfbd677718675ace8d?remote=urn:x-domain:oreilly.com:product:9781449382094.APP">
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/out-of-stock-indefinitely"/>
+        <trons:becauseOf xml:lang="en">Only Books can go Out of Stock Indefinitely</trons:becauseOf>
+        <trons:becauseOf xml:lang="en">Product must have a printing status with the Oracle code Do Not Reprint or Out of Stock Indefinitely.</trons:becauseOf>
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/583d25efbfbd713cefbfbd464befbfbde3c2b6959efbfbd?remote=urn:x-domain:oreilly.com:product:9781449382094.APP">
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/publicly-visible"/>
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</trons:isValid>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbd12efbfbd3251627cbefbfbd3845efbfbdefbfbdefbfbd4f?remote=urn:x-domain:oreilly.com:product:9781449382094.APP">
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/active"/>
+        <trons:becauseOf xml:lang="en">Product must have an Availability Date before now.</trons:becauseOf>
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbd5641efbfbdefbfbdefbfbdefbfbd4b34cefbfbdefbfbdefbfbd66efbfbd?remote=urn:x-domain:oreilly.com:product:9781449382094.APP">
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/discontinued"/>
+        <trons:becauseOf xml:lang="en">                  Product status must be set to one of "Publication Cancelled", "Distribution Cancelled" or "No Longer ORM Publication" in the Product Database.             </trons:becauseOf>
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbd41215f9346d322a5b4b625fefbfbd522f?remote=urn:x-domain:oreilly.com:product:9781449382094.APP">
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/cancelled"/>
+        <trons:becauseOf xml:lang="en">Product must set as Cancelled in the Product Database.</trons:becauseOf>
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/3e66eea48a2defbfbdefbfbd4defbfbd3c3275efbfbd65?remote=urn:x-domain:oreilly.com:product:9781449382094.APP">
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/stalled"/>
+        <trons:becauseOf xml:lang="en">Product Status must be Pending.</trons:becauseOf>
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbdefbfbd7d4e5efbfbd2fefbfbdefbfbd2c543fefbfbdefbfbdefbfbdf?remote=urn:x-domain:oreilly.com:product:9781449382094.APP">
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/out-of-print"/>
+        <trons:becauseOf xml:lang="en">Book, PrintBookNonDistributable, DVD, Video, CD Bookshelf, PDF, EBOOK, MOBI, EPUB, EarlyReleaseEbook, AndroidApp or iPhoneApp must be Out of Print.</trons:becauseOf>
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+      </trons:Result>
+    </trons:validation>
+    
+    <om:price>
+      <om:PerUnit rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9781449382094.APP#price-USA-01">
+        <dc:spatial xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">USA</dc:spatial>
+        <om:currency rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">840</om:currency>
+        
+        <rdf:value xml:lang="en">4.99</rdf:value>
+        
+        
+        
+        
+        
+        
+        
+      </om:PerUnit>
+    </om:price>
+    
+    <om:editorTitle xml:lang="en">Make: Electronics</om:editorTitle>
+    
+    <dc:language xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">en-US</dc:language>
+    <dc:abstract rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral" xmlns:dc="http://purl.org/dc/terms/">&lt;div&gt;&lt;p&gt;"This is teaching at its best!"&lt;br/&gt;&lt;br/&gt;
+--Hans Camenzind, inventor of the 555 timer (the world's most successful integrated circuit), and author of &lt;i&gt;Much Ado About Almost Nothing: Man's Encounter with the Electron&lt;/i&gt; (Booklocker.com)
+&lt;/p&gt;&lt;p&gt;
+"A fabulous book: well written, well paced, fun, and informative. I also love the sense of humor. It's very good at disarming the fear. And it's &lt;i&gt;gorgeous&lt;/i&gt;. I'll be recommending this book highly."&lt;br/&gt;&lt;br/&gt;
+--Tom Igoe, author of Physical Computing and Making Things Talk
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Want to learn the fundamentals of electronics in a fun, hands-on way? With &lt;i&gt;Make: Electronics&lt;/i&gt;, you'll start working on real projects as soon as you crack open the book. Explore all of the key components and essential principles through a series of fascinating experiments. You'll build the circuits first, &lt;i&gt;then&lt;/i&gt; learn the theory behind them! 
+&lt;/p&gt;&lt;p&gt;&lt;b&gt;Build working devices, from simple to complex&lt;/b&gt;
+You'll start with the basics and then move on to more complicated projects. Go from switching circuits to integrated circuits, and from simple alarms to programmable microcontrollers. Step-by-step instructions and more than 500 full-color photographs and illustrations will help you use -- and understand -- electronics concepts and techniques. 
+&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Discover by breaking things: experiment with components and learn from failure
+&lt;/li&gt;&lt;li&gt;Set up a tricked-out project space: make a work area at home, equipped with the tools and parts you'll need
+&lt;/li&gt;&lt;li&gt;Learn about key electronic components and their functions within a circuit
+&lt;/li&gt;&lt;li&gt;Create an intrusion alarm, holiday lights, wearable electronic jewelry, audio processors, a reflex tester, and a combination lock
+&lt;/li&gt;&lt;li&gt;Build an autonomous robot cart that can sense its environment and avoid obstacles
+&lt;/li&gt;&lt;li&gt;Get clear, easy-to-understand explanations of what you're doing and why&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</dc:abstract>
+    <om:approvedToAnnounceBy xml:lang="en">cindy</om:approvedToAnnounceBy>
+    <dc:rightsHolder xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Helpful Corporation</dc:rightsHolder>
+    <om:customerTitle xml:lang="en">Make: Electronics</om:customerTitle>
+    <om:imprint xml:lang="en">Maker Media, Inc</om:imprint>
+    
+    
+    <om:subtitle xml:lang="en">Learning Through Discovery</om:subtitle>
+    
+    
+    
+    
+    <om:division rdf:resource="http://purl.oreilly.com/divisions/DIS"/>
+    <dc:type rdf:resource="http://purl.oreilly.com/product-types/iPhoneApp" xmlns:dc="http://purl.org/dc/terms/"/>
+    <dc:description rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral" xmlns:dc="http://purl.org/dc/terms/">&lt;div&gt;&lt;p&gt;By Charles Platt&lt;/p&gt;
+&lt;p&gt;Published by O'Reilly Media (&lt;a href="http://oreilly.com/catalog/9780596153755"&gt;http://oreilly.com/catalog/9780596153755&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Want to learn the fundamentals of electronics in a fun, hands-on way? With Make: Electronics, you'll start working on real projects as soon as you crack open the book. Explore all of the key components and essential principles through a series of fascinating experiments. You'll build the circuits first, then learn the theory behind them! 
+Build working devices, from simple to complex
+You'll start with the basics and then move on to more complicated projects. Go from switching circuits to integrated circuits, and from simple alarms to programmable microcontrollers. Step-by-step instructions and more than 500 full-color photographs and illustrations will help you use -- and understand -- electronics concepts and techniques. &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Discover by breaking things: experiment with components and learn from failure&lt;/li&gt;
+&lt;li&gt;Set up a tricked-out project space: make a work area at home, equipped with the tools and parts you'll need&lt;/li&gt;
+&lt;li&gt;Learn about key electronic components and their functions within a circuit&lt;/li&gt;
+&lt;li&gt;Create an intrusion alarm, holiday lights, wearable electronic jewelry, audio processors, a reflex tester, and a combination lock&lt;/li&gt;
+&lt;li&gt;Build an autonomous robot cart that can sense its environment and avoid obstacles&lt;/li&gt;
+&lt;li&gt;Get clear, easy-to-understand explanations of what you're doing and why&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Superb Reading Features&lt;/p&gt;
+&lt;p&gt;Through a partnership between O'Reilly Media and Lexcycle, this app includes the same features that have made Stanza an iPhone phenomenon with over a million downloads:
+&lt;em&gt; Full book text search
+&lt;/em&gt; Several fonts and themes to choose from
+&lt;em&gt; Built-in dictionary
+&lt;/em&gt; The ability to add annotations
+&lt;em&gt; Landscape view
+&lt;/em&gt; Extensive cross-referencing and working hyperlinks
+* Zoom function for images and screenshots&lt;/p&gt;
+&lt;p&gt;About O'Reilly Media&lt;/p&gt;
+&lt;p&gt;O'Reilly Media spreads the knowledge of innovators through its books, online services, magazines, research, and conferences.  Whether it's delivered in print, online, or in person, everything O'Reilly produces reflects the company's unshakeable belief in the power of information to spur innovation. Learn more about Ebooks from O'Reilly at oreilly.com/ebooks.&lt;/p&gt;
+&lt;p&gt;About Lexcycle&lt;/p&gt;
+&lt;p&gt;Lexcycle is the creator of Stanza Bookbinder which was used to create this standalone book application. Stanza Bookbinder is based on the popular iPhone Ebook reading application, Stanza. For more information about Stanza, visit www.lexcycle.com.&lt;/p&gt;&lt;/div&gt;</dc:description>
+    
+    <om:editionLabel xml:lang="en"/>
+    <om:imprint_short_name xml:lang="en">MMI</om:imprint_short_name>
+    
+    <dc:identifier rdf:resource="urn:isbn:9781449382094" xmlns:dc="http://purl.org/dc/terms/"/>
+    <dc:publisher rdf:resource="http://purl.oreilly.com/publishers/MMI" xmlns:dc="http://purl.org/dc/terms/"/>
+    <om:sortableTitle xml:lang="en">make: electronics</om:sortableTitle>
+    
+    
+    <dc:creator xmlns:dc="http://purl.org/dc/terms/">
+      <rdf:Seq rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9781449382094.APP#creator">
+        <rdf:_1 rdf:resource="urn:x-domain:oreilly.com:agent:pdb:3468"/>
+      </rdf:Seq>
+    </dc:creator>
+    
+    <dc:title xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Make: Electronics</dc:title>
+    <om:byline xml:lang="en">By Charles Platt</om:byline>
+    
+    <om:primarySubject rdf:resource="http://purl.oreilly.com/resource-center/electronics"/>
+    
+    <mods:edition xml:lang="en" xmlns:mods="http://www.loc.gov/mods/">1</mods:edition>
+    <om:asciiTitle xml:lang="en">Make: Electronics</om:asciiTitle>
+    <om:audience rdf:resource="http://purl.oreilly.com/audiences/"/>
+    <om:videoTableOfContents xml:lang="en"/>
+    
+    <om:projectManager rdf:resource="urn:x-domain:oreilly.com:agent:pdb:4798"/>
+  </om:Product><om:Product rdf:about="urn:x-domain:oreilly.com:product:9781449378660.EBOOK" xml:lang="en" xmlns:om="http://purl.oreilly.com/ns/meta/">
+    <dc:creator xmlns:dc="http://purl.org/dc/terms/">
+      <rdf:Seq rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9781449378660.EBOOK#creator">
+        <rdf:_1 rdf:resource="urn:x-domain:oreilly.com:agent:pdb:3468"/>
+      </rdf:Seq>
+    </dc:creator>
+    
+    
+    
+    <om:customerTitle xml:lang="en">Make: Electronics</om:customerTitle>
+    <dc:abstract rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral" xmlns:dc="http://purl.org/dc/terms/">&lt;div&gt;&lt;p&gt;"This is teaching at its best!"&lt;br/&gt;&lt;br/&gt;
+--Hans Camenzind, inventor of the 555 timer (the world's most successful integrated circuit), and author of &lt;i&gt;Much Ado About Almost Nothing: Man's Encounter with the Electron&lt;/i&gt; (Booklocker.com)
+&lt;/p&gt;&lt;p&gt;
+"A fabulous book: well written, well paced, fun, and informative. I also love the sense of humor. It's very good at disarming the fear. And it's &lt;i&gt;gorgeous&lt;/i&gt;. I'll be recommending this book highly."&lt;br/&gt;&lt;br/&gt;
+--Tom Igoe, author of Physical Computing and Making Things Talk
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Want to learn the fundamentals of electronics in a fun, hands-on way? With &lt;i&gt;Make: Electronics&lt;/i&gt;, you'll start working on real projects as soon as you crack open the book. Explore all of the key components and essential principles through a series of fascinating experiments. You'll build the circuits first, &lt;i&gt;then&lt;/i&gt; learn the theory behind them! 
+&lt;/p&gt;&lt;p&gt;&lt;b&gt;Build working devices, from simple to complex&lt;/b&gt;
+You'll start with the basics and then move on to more complicated projects. Go from switching circuits to integrated circuits, and from simple alarms to programmable microcontrollers. Step-by-step instructions and more than 500 full-color photographs and illustrations will help you use -- and understand -- electronics concepts and techniques. 
+&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Discover by breaking things: experiment with components and learn from failure
+&lt;/li&gt;&lt;li&gt;Set up a tricked-out project space: make a work area at home, equipped with the tools and parts you'll need
+&lt;/li&gt;&lt;li&gt;Learn about key electronic components and their functions within a circuit
+&lt;/li&gt;&lt;li&gt;Create an intrusion alarm, holiday lights, wearable electronic jewelry, audio processors, a reflex tester, and a combination lock
+&lt;/li&gt;&lt;li&gt;Build an autonomous robot cart that can sense its environment and avoid obstacles
+&lt;/li&gt;&lt;li&gt;Get clear, easy-to-understand explanations of what you're doing and why&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</dc:abstract>
+    
+    
+    <om:editorTitle xml:lang="en">Make: Electronics</om:editorTitle>
+    
+    <om:sortableTitle xml:lang="en">make: electronics</om:sortableTitle>
+    
+    <om:inPracticeAreaID xml:lang="en">6</om:inPracticeAreaID>
+    <om:videoPreview xml:lang="en"/>
+    <dc:created xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">2009-10-01</dc:created>
+    
+    <om:editionLabel xml:lang="en">1st Edition</om:editionLabel>
+    <om:endNewStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-02-01T00:00:00</om:endNewStatus>
+    
+    <om:videoTableOfContents xml:lang="en"/>
+    
+    
+    <om:imprint xml:lang="en">Maker Media, Inc</om:imprint>
+    
+    <om:subtitle xml:lang="en">Learning Through Discovery</om:subtitle>
+    <om:byline xml:lang="en">By Charles Platt</om:byline>
+    
+    <om:asciiTitle xml:lang="en">Make: Electronics</om:asciiTitle>
+    
+    <dc:publisher rdf:resource="http://purl.oreilly.com/publishers/MMI" xmlns:dc="http://purl.org/dc/terms/"/>
+    
+    
+    
+    <mods:edition xml:lang="en" xmlns:mods="http://www.loc.gov/mods/">1</mods:edition>
+    <om:primarySubject rdf:resource="http://purl.oreilly.com/resource-center/electronics"/>
+    
+    
+    
+    
+    
+    <om:includedIn rdf:resource="urn:x-domain:oreilly.com:product:9780596153748.BOOK:9781449378660.EBOOK#bundle-offer"/>
+    <om:includedIn>
+      
+    </om:includedIn>
+    
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/oreilly_com"/>
+    <marcrel:EDT rdf:resource="urn:x-domain:oreilly.com:agent:pdb:163" xmlns:marcrel="http://www.loc.gov/loc.terms/relators/"/>
+    <marcrel:EDT rdf:resource="urn:x-domain:oreilly.com:agent:pdb:471" xmlns:marcrel="http://www.loc.gov/loc.terms/relators/"/>
+    <om:imprint_short_name xml:lang="en">MMI</om:imprint_short_name>
+    <om:division rdf:resource="http://purl.oreilly.com/divisions/DIS"/>
+    <dc:language xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">en-US</dc:language>
+    <dc:type rdf:resource="http://purl.oreilly.com/product-types/EBOOK" xmlns:dc="http://purl.org/dc/terms/"/>
+    
+    <om:price>
+      <om:PerUnit rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9781449378660.EBOOK#price-USA-01">
+        
+        <om:currency rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">840</om:currency>
+        
+        
+        
+        <dc:spatial xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">USA</dc:spatial>
+        <rdf:value xml:lang="en">27.99</rdf:value>
+        
+        
+        
+        
+      </om:PerUnit>
+    </om:price>
+    <om:price>
+      <om:PerUnit rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9781449378660.EBOOK#price-CAN-01">
+        
+        <om:currency rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">124</om:currency>
+        
+        
+        
+        <dc:spatial xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">CAN</dc:spatial>
+        <rdf:value xml:lang="en">35.95</rdf:value>
+        
+        
+        
+        
+      </om:PerUnit>
+    </om:price>
+    <om:price>
+      <om:PerUnit rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9781449378660.EBOOK#price-GBR-01">
+        
+        <om:currency rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">826</om:currency>
+        
+        
+        
+        <dc:spatial xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">GBR</dc:spatial>
+        <rdf:value xml:lang="en">19.99</rdf:value>
+        
+        
+        
+        
+      </om:PerUnit>
+    </om:price>
+    <dc:rightsHolder xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Helpful Corporation</dc:rightsHolder>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbd12efbfbd3251627cbefbfbd3845efbfbdefbfbdefbfbd4f?remote=urn:x-domain:oreilly.com:product:9781449378660.EBOOK">
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/active"/>
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</trons:isValid>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/7954efbfbdefbfbd3a4fefbfbdefbfbd1eefbfbdefbfbd582e4b20?remote=urn:x-domain:oreilly.com:product:9781449378660.EBOOK">
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/editorial"/>
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+        <trons:becauseOf xml:lang="en">An EBOOK or EarlyReleaseEbook must NOT have a media format.</trons:becauseOf>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbd5641efbfbdefbfbdefbfbdefbfbd4b34cefbfbdefbfbdefbfbd66efbfbd?remote=urn:x-domain:oreilly.com:product:9781449378660.EBOOK">
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/discontinued"/>
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+        <trons:becauseOf xml:lang="en">                  Product status must be set to one of "Publication Cancelled", "Distribution Cancelled" or "No Longer ORM Publication" in the Product Database.             </trons:becauseOf>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/3e66eea48a2defbfbdefbfbd4defbfbd3c3275efbfbd65?remote=urn:x-domain:oreilly.com:product:9781449378660.EBOOK">
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/stalled"/>
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+        <trons:becauseOf xml:lang="en">Product Status must be Pending.</trons:becauseOf>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbd41215f9346d322a5b4b625fefbfbd522f?remote=urn:x-domain:oreilly.com:product:9781449378660.EBOOK">
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/cancelled"/>
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+        <trons:becauseOf xml:lang="en">Product must NOT have been issued (published).</trons:becauseOf>
+        <trons:becauseOf xml:lang="en">Product must set as Cancelled in the Product Database.</trons:becauseOf>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbdefbfbd516323efbfbd57efbfbdefbfbd677718675ace8d?remote=urn:x-domain:oreilly.com:product:9781449378660.EBOOK">
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/out-of-stock-indefinitely"/>
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+        <trons:becauseOf xml:lang="en">Only Books can go Out of Stock Indefinitely</trons:becauseOf>
+        <trons:becauseOf xml:lang="en">Product must have a printing status with the Oracle code Do Not Reprint or Out of Stock Indefinitely.</trons:becauseOf>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbdefbfbd7d4e5efbfbd2fefbfbdefbfbd2c543fefbfbdefbfbdefbfbdf?remote=urn:x-domain:oreilly.com:product:9781449378660.EBOOK">
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/out-of-print"/>
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+        <trons:becauseOf xml:lang="en">Book, PrintBookNonDistributable, DVD, Video, CD Bookshelf, PDF, EBOOK, MOBI, EPUB, EarlyReleaseEbook, AndroidApp or iPhoneApp must be Out of Print.</trons:becauseOf>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/583d25efbfbd713cefbfbd464befbfbde3c2b6959efbfbd?remote=urn:x-domain:oreilly.com:product:9781449378660.EBOOK">
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/publicly-visible"/>
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</trons:isValid>
+      </trons:Result>
+    </trons:validation>
+    
+    <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime" xmlns:dc="http://purl.org/dc/terms/">2014-01-04T08:09:14.940971+00:00</dc:modified>
+    
+    <om:beginUpcomingStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-08-01T00:00:00</om:beginUpcomingStatus>
+    
+    
+    
+    
+    
+    
+    
+    <trons:validAccordingTo rdf:resource="http://purl.oreilly.com/statuses/active" xmlns:trons="http://purl.oreilly.com/ns/trons/"/>
+    <trons:validAccordingTo rdf:resource="http://purl.oreilly.com/statuses/publicly-visible" xmlns:trons="http://purl.oreilly.com/ns/trons/"/>
+    <om:projectManager rdf:resource="urn:x-domain:oreilly.com:agent:pdb:4798"/>
+    
+    <om:audience rdf:resource="http://purl.oreilly.com/audiences/"/>
+    <om:inPracticeArea rdf:resource="http://purl.oreilly.com/practice-area/Make"/>
+    <dc:description rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral" xmlns:dc="http://purl.org/dc/terms/">&lt;p&gt;Want to learn the fundamentals of electronics in a fun, hands-on way? With &lt;i&gt;Make: Electronics&lt;/i&gt;, you'll start working on real projects as soon as you crack open the book. Explore all of the key components and essential principles through a series of fascinating experiments. You'll build the circuits first, &lt;i&gt;then&lt;/i&gt; learn the theory behind them! Step-by-step instructions and more than 500 full-color photographs and illustrations will help you use -- and understand -- electronics concepts and techniques.&lt;/p&gt;</dc:description>
+    <om:approvedToAnnounceBy xml:lang="en">cindy</om:approvedToAnnounceBy>
+    
+    <dc:title xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Make: Electronics</dc:title>
+    <dc:isFormatOf rdf:resource="urn:x-domain:oreilly.com:product:9780596153755.IP" xmlns:dc="http://purl.org/dc/terms/"/>
+    
+    <dc:identifier rdf:resource="urn:isbn:9781449378660" xmlns:dc="http://purl.org/dc/terms/"/>
+    
+    <om:inPracticeAreaName xml:lang="en">Make</om:inPracticeAreaName>
+    
+    
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date" xmlns:dc="http://purl.org/dc/terms/">2009-11-23</dc:issued>
+    
+    
+    
+    
+    
+  </om:Product><om:Product rdf:about="urn:x-domain:oreilly.com:product:9781449389239.PDF" xml:lang="en" xmlns:om="http://purl.oreilly.com/ns/meta/">
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date" xmlns:dc="http://purl.org/dc/terms/">2009-11-23</dc:issued>
+    <om:asciiTitle xml:lang="en">Make: Electronics</om:asciiTitle>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/3e66eea48a2defbfbdefbfbd4defbfbd3c3275efbfbd65?remote=urn:x-domain:oreilly.com:product:9781449389239.PDF">
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/stalled"/>
+        <trons:becauseOf xml:lang="en">Product Status must be Pending.</trons:becauseOf>
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbd41215f9346d322a5b4b625fefbfbd522f?remote=urn:x-domain:oreilly.com:product:9781449389239.PDF">
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/cancelled"/>
+        <trons:becauseOf xml:lang="en">Product must set as Cancelled in the Product Database.</trons:becauseOf>
+        <trons:becauseOf xml:lang="en">Product must NOT have been issued (published).</trons:becauseOf>
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/583d25efbfbd713cefbfbd464befbfbde3c2b6959efbfbd?remote=urn:x-domain:oreilly.com:product:9781449389239.PDF">
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/publicly-visible"/>
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</trons:isValid>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbdefbfbd7d4e5efbfbd2fefbfbdefbfbd2c543fefbfbdefbfbdefbfbdf?remote=urn:x-domain:oreilly.com:product:9781449389239.PDF">
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/out-of-print"/>
+        <trons:becauseOf xml:lang="en">Book, PrintBookNonDistributable, DVD, Video, CD Bookshelf, PDF, EBOOK, MOBI, EPUB, EarlyReleaseEbook, AndroidApp or iPhoneApp must be Out of Print.</trons:becauseOf>
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/7954efbfbdefbfbd3a4fefbfbdefbfbd1eefbfbdefbfbd582e4b20?remote=urn:x-domain:oreilly.com:product:9781449389239.PDF">
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/editorial"/>
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</trons:isValid>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbd5641efbfbdefbfbdefbfbdefbfbd4b34cefbfbdefbfbdefbfbd66efbfbd?remote=urn:x-domain:oreilly.com:product:9781449389239.PDF">
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/discontinued"/>
+        <trons:becauseOf xml:lang="en">                  Product status must be set to one of "Publication Cancelled", "Distribution Cancelled" or "No Longer ORM Publication" in the Product Database.             </trons:becauseOf>
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbd12efbfbd3251627cbefbfbd3845efbfbdefbfbdefbfbd4f?remote=urn:x-domain:oreilly.com:product:9781449389239.PDF">
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/active"/>
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</trons:isValid>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbdefbfbd516323efbfbd57efbfbdefbfbd677718675ace8d?remote=urn:x-domain:oreilly.com:product:9781449389239.PDF">
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/out-of-stock-indefinitely"/>
+        <trons:becauseOf xml:lang="en">Product must have a printing status with the Oracle code Do Not Reprint or Out of Stock Indefinitely.</trons:becauseOf>
+        <trons:becauseOf xml:lang="en">Only Books can go Out of Stock Indefinitely</trons:becauseOf>
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+      </trons:Result>
+    </trons:validation>
+    <om:videoPreview xml:lang="en"/>
+    <om:editorTitle xml:lang="en">Make: Electronics</om:editorTitle>
+    
+    <dc:format rdf:datatype="http://purl.org/dc/terms/IMT" xmlns:dc="http://purl.org/dc/terms/">application/pdf</dc:format>
+    
+    
+    <om:projectManager rdf:resource="urn:x-domain:oreilly.com:agent:pdb:4798"/>
+    
+    <om:imprint_short_name xml:lang="en">MMI</om:imprint_short_name>
+    
+    
+    
+    <om:price>
+      <om:PerUnit rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9781449389239.PDF#price-USA-01">
+        
+        <rdf:value xml:lang="en">27.99</rdf:value>
+        
+        
+        
+        
+        <dc:spatial xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">USA</dc:spatial>
+        <om:currency rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">840</om:currency>
+        
+        
+        
+      </om:PerUnit>
+    </om:price>
+    <dc:creator xmlns:dc="http://purl.org/dc/terms/">
+      <rdf:Seq rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9781449389239.PDF#creator">
+        <rdf:_1 rdf:resource="urn:x-domain:oreilly.com:agent:pdb:3468"/>
+      </rdf:Seq>
+    </dc:creator>
+    <dc:title xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Make: Electronics</dc:title>
+    
+    <dc:rightsHolder xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Helpful Corporation</dc:rightsHolder>
+    
+    
+    <dc:type rdf:resource="http://purl.oreilly.com/product-types/PDF" xmlns:dc="http://purl.org/dc/terms/"/>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/Text" xmlns:dc="http://purl.org/dc/terms/"/>
+    <dc:identifier rdf:resource="urn:isbn:9781449389239" xmlns:dc="http://purl.org/dc/terms/"/>
+    <marcrel:EDT rdf:resource="urn:x-domain:oreilly.com:agent:pdb:471" xmlns:marcrel="http://www.loc.gov/loc.terms/relators/"/>
+    <marcrel:EDT rdf:resource="urn:x-domain:oreilly.com:agent:pdb:163" xmlns:marcrel="http://www.loc.gov/loc.terms/relators/"/>
+    <om:beginUpcomingStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-08-01T00:00:00</om:beginUpcomingStatus>
+    <om:subtitle xml:lang="en">Learning Through Discovery</om:subtitle>
+    
+    
+    <trons:validAccordingTo rdf:resource="http://purl.oreilly.com/statuses/publicly-visible" xmlns:trons="http://purl.oreilly.com/ns/trons/"/>
+    <trons:validAccordingTo rdf:resource="http://purl.oreilly.com/statuses/editorial" xmlns:trons="http://purl.oreilly.com/ns/trons/"/>
+    <trons:validAccordingTo rdf:resource="http://purl.oreilly.com/statuses/active" xmlns:trons="http://purl.oreilly.com/ns/trons/"/>
+    <om:primarySubject rdf:resource="http://purl.oreilly.com/resource-center/electronics"/>
+    
+    <om:sortableTitle xml:lang="en">make: electronics</om:sortableTitle>
+    <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime" xmlns:dc="http://purl.org/dc/terms/">2014-01-04T08:09:26.038019+00:00</dc:modified>
+    <dc:subject rdf:resource="http://www.bisg.org/standards/bisac_subject/TEC037000" xmlns:dc="http://purl.org/dc/terms/"/>
+    <dc:subject rdf:resource="http://www.bisg.org/standards/bisac_subject/TEC009000" xmlns:dc="http://purl.org/dc/terms/"/>
+    <dc:subject rdf:resource="http://www.bisg.org/standards/bisac_subject/TEC008010" xmlns:dc="http://purl.org/dc/terms/"/>
+    <dc:subject rdf:resource="http://oreilly.com/pdb/legacy/programSubject/SCI" xmlns:dc="http://purl.org/dc/terms/"/>
+    
+    <dc:abstract rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral" xmlns:dc="http://purl.org/dc/terms/">&lt;div&gt;&lt;p&gt;"This is teaching at its best!"&lt;br/&gt;&lt;br/&gt;
+--Hans Camenzind, inventor of the 555 timer (the world's most successful integrated circuit), and author of &lt;i&gt;Much Ado About Almost Nothing: Man's Encounter with the Electron&lt;/i&gt; (Booklocker.com)
+&lt;/p&gt;&lt;p&gt;
+"A fabulous book: well written, well paced, fun, and informative. I also love the sense of humor. It's very good at disarming the fear. And it's &lt;i&gt;gorgeous&lt;/i&gt;. I'll be recommending this book highly."&lt;br/&gt;&lt;br/&gt;
+--Tom Igoe, author of Physical Computing and Making Things Talk
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Want to learn the fundamentals of electronics in a fun, hands-on way? With &lt;i&gt;Make: Electronics&lt;/i&gt;, you'll start working on real projects as soon as you crack open the book. Explore all of the key components and essential principles through a series of fascinating experiments. You'll build the circuits first, &lt;i&gt;then&lt;/i&gt; learn the theory behind them! 
+&lt;/p&gt;&lt;p&gt;&lt;b&gt;Build working devices, from simple to complex&lt;/b&gt;
+You'll start with the basics and then move on to more complicated projects. Go from switching circuits to integrated circuits, and from simple alarms to programmable microcontrollers. Step-by-step instructions and more than 500 full-color photographs and illustrations will help you use -- and understand -- electronics concepts and techniques. 
+&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Discover by breaking things: experiment with components and learn from failure
+&lt;/li&gt;&lt;li&gt;Set up a tricked-out project space: make a work area at home, equipped with the tools and parts you'll need
+&lt;/li&gt;&lt;li&gt;Learn about key electronic components and their functions within a circuit
+&lt;/li&gt;&lt;li&gt;Create an intrusion alarm, holiday lights, wearable electronic jewelry, audio processors, a reflex tester, and a combination lock
+&lt;/li&gt;&lt;li&gt;Build an autonomous robot cart that can sense its environment and avoid obstacles
+&lt;/li&gt;&lt;li&gt;Get clear, easy-to-understand explanations of what you're doing and why&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</dc:abstract>
+    
+    <om:endNewStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-02-01T00:00:00</om:endNewStatus>
+    
+    <om:audience rdf:resource="http://purl.oreilly.com/audiences/"/>
+    <om:division rdf:resource="http://purl.oreilly.com/divisions/DIS"/>
+    <dc:publisher rdf:resource="http://purl.oreilly.com/publishers/MMI" xmlns:dc="http://purl.org/dc/terms/"/>
+    
+    <om:byline xml:lang="en">By Charles Platt</om:byline>
+    
+    
+    
+    <marcrel:PBD rdf:resource="urn:x-domain:oreilly.com:agent:pdb:163" xmlns:marcrel="http://www.loc.gov/loc.terms/relators/"/>
+    <om:editionLabel xml:lang="en"/>
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/paperc"/>
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/kobo"/>
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/ebookpie"/>
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/scribd"/>
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/dawson"/>
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/follett"/>
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/ebooks_com"/>
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/amazon_edocs"/>
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/examville"/>
+    
+    
+    <dc:description rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral" xmlns:dc="http://purl.org/dc/terms/">&lt;p&gt;Want to learn the fundamentals of electronics in a fun, hands-on way? With &lt;i&gt;Make: Electronics&lt;/i&gt;, you'll start working on real projects as soon as you crack open the book. Explore all of the key components and essential principles through a series of fascinating experiments. You'll build the circuits first, &lt;i&gt;then&lt;/i&gt; learn the theory behind them! Step-by-step instructions and more than 500 full-color photographs and illustrations will help you use -- and understand -- electronics concepts and techniques.&lt;/p&gt;</dc:description>
+    
+    <om:imprint xml:lang="en">Maker Media, Inc</om:imprint>
+    <om:customerTitle xml:lang="en">Make: Electronics</om:customerTitle>
+    <om:approvedToAnnounceBy xml:lang="en">cindy</om:approvedToAnnounceBy>
+    
+    <om:videoTableOfContents xml:lang="en"/>
+    
+    <mods:edition xml:lang="en" xmlns:mods="http://www.loc.gov/mods/">1</mods:edition>
+    <dc:isFormatOf rdf:resource="urn:x-domain:oreilly.com:product:9780596153755.IP" xmlns:dc="http://purl.org/dc/terms/"/>
+    
+    <dc:language xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">en-US</dc:language>
+    
+  </om:Product><om:Product rdf:about="urn:x-domain:oreilly.com:product:9780596153748.BOOK" xml:lang="en" xmlns:om="http://purl.oreilly.com/ns/meta/">
+    
+    
+    
+    
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date" xmlns:dc="http://purl.org/dc/terms/">2009-12-10</dc:issued>
+    <dc:extent xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">352 pages</dc:extent>
+    <om:binding xml:lang="en">Otabind</om:binding>
+    <om:binding xml:lang="en">Perfect</om:binding>
+    <om:binding xml:lang="en">Lay-flat</om:binding>
+    <om:editionLabel xml:lang="en">1st Edition</om:editionLabel>
+    
+    
+    <om:videoTableOfContents xml:lang="en"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <dc:abstract rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral" xmlns:dc="http://purl.org/dc/terms/">&lt;div&gt;&lt;p&gt;"This is teaching at its best!"&lt;br/&gt;&lt;br/&gt;
+--Hans Camenzind, inventor of the 555 timer (the world's most successful integrated circuit), and author of &lt;i&gt;Much Ado About Almost Nothing: Man's Encounter with the Electron&lt;/i&gt; (Booklocker.com)
+&lt;/p&gt;&lt;p&gt;
+"A fabulous book: well written, well paced, fun, and informative. I also love the sense of humor. It's very good at disarming the fear. And it's &lt;i&gt;gorgeous&lt;/i&gt;. I'll be recommending this book highly."&lt;br/&gt;&lt;br/&gt;
+--Tom Igoe, author of Physical Computing and Making Things Talk
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Want to learn the fundamentals of electronics in a fun, hands-on way? With &lt;i&gt;Make: Electronics&lt;/i&gt;, you'll start working on real projects as soon as you crack open the book. Explore all of the key components and essential principles through a series of fascinating experiments. You'll build the circuits first, &lt;i&gt;then&lt;/i&gt; learn the theory behind them! 
+&lt;/p&gt;&lt;p&gt;&lt;b&gt;Build working devices, from simple to complex&lt;/b&gt;
+You'll start with the basics and then move on to more complicated projects. Go from switching circuits to integrated circuits, and from simple alarms to programmable microcontrollers. Step-by-step instructions and more than 500 full-color photographs and illustrations will help you use -- and understand -- electronics concepts and techniques. 
+&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Discover by breaking things: experiment with components and learn from failure
+&lt;/li&gt;&lt;li&gt;Set up a tricked-out project space: make a work area at home, equipped with the tools and parts you'll need
+&lt;/li&gt;&lt;li&gt;Learn about key electronic components and their functions within a circuit
+&lt;/li&gt;&lt;li&gt;Create an intrusion alarm, holiday lights, wearable electronic jewelry, audio processors, a reflex tester, and a combination lock
+&lt;/li&gt;&lt;li&gt;Build an autonomous robot cart that can sense its environment and avoid obstacles
+&lt;/li&gt;&lt;li&gt;Get clear, easy-to-understand explanations of what you're doing and why&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</dc:abstract>
+    
+    
+    <om:inPracticeAreaID xml:lang="en">6</om:inPracticeAreaID>
+    
+    
+    
+    
+    
+    
+    <om:imprint_short_name xml:lang="en">MMI</om:imprint_short_name>
+    <om:approvedToAnnounceBy xml:lang="en">cindy</om:approvedToAnnounceBy>
+    
+    
+    <marcrel:BKD rdf:resource="urn:x-domain:oreilly.com:agent:pdb:1619" xmlns:marcrel="http://www.loc.gov/loc.terms/relators/"/>
+    <dc:language xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">en-US</dc:language>
+    <mods:edition xml:lang="en" xmlns:mods="http://www.loc.gov/mods/">1</mods:edition>
+    
+    
+    
+    <om:tagline xml:lang="en">Burn things out, mess things up-that's how you learn.</om:tagline>
+    
+    
+    <dc:subject xmlns:dc="http://purl.org/dc/terms/">
+      <rdf:Description rdf:about="http://purl.oreilly.com/onix/keywords/diy">
+        <rdf:value xml:lang="en">diy</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.oreilly.com/onix/keywords/" xmlns:dcam="http://purl.org/dc/dcam/"/>
+      </rdf:Description>
+    </dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/terms/">
+      <rdf:Description rdf:about="http://www.bisg.org/standards/bisac_subject/TEC009000">
+        <dcam:memberOf rdf:resource="http://www.bisg.org/standards/bisac_subject" xmlns:dcam="http://purl.org/dc/dcam/"/>
+        <dc:title xml:lang="en">TECHNOLOGY &amp; ENGINEERING / Engineering (General)</dc:title>
+      </rdf:Description>
+    </dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/terms/">
+      <rdf:Description rdf:about="http://purl.oreilly.com/onix/keywords/make">
+        <rdf:value xml:lang="en">make</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.oreilly.com/onix/keywords/" xmlns:dcam="http://purl.org/dc/dcam/"/>
+      </rdf:Description>
+    </dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/terms/">
+      <rdf:Description rdf:about="http://www.bisg.org/standards/bisac_subject/TEC008010">
+        <dcam:memberOf rdf:resource="http://www.bisg.org/standards/bisac_subject" xmlns:dcam="http://purl.org/dc/dcam/"/>
+        <dc:title xml:lang="en">TECHNOLOGY &amp; ENGINEERING / Electronics / Circuits / General</dc:title>
+      </rdf:Description>
+    </dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/terms/">
+      <rdf:Description rdf:about="http://purl.oreilly.com/onix/keywords/electronics">
+        <rdf:value xml:lang="en">electronics</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.oreilly.com/onix/keywords/" xmlns:dcam="http://purl.org/dc/dcam/"/>
+      </rdf:Description>
+    </dc:subject>
+    
+    <dc:subject xmlns:dc="http://purl.org/dc/terms/">
+      <rdf:Description rdf:about="http://purl.oreilly.com/onix/keywords/make%3A%20electronics">
+        <rdf:value xml:lang="en">make: electronics</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.oreilly.com/onix/keywords/" xmlns:dcam="http://purl.org/dc/dcam/"/>
+      </rdf:Description>
+    </dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/terms/">
+      <rdf:Description rdf:about="http://www.bisg.org/standards/bisac_subject/TEC037000">
+        <dcam:memberOf rdf:resource="http://www.bisg.org/standards/bisac_subject" xmlns:dcam="http://purl.org/dc/dcam/"/>
+        <dc:title xml:lang="en">TECHNOLOGY &amp; ENGINEERING / Robotics</dc:title>
+      </rdf:Description>
+    </dc:subject>
+    
+    
+    
+    
+    
+    
+    <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime" xmlns:dc="http://purl.org/dc/terms/">2014-01-04T08:09:07.476360+00:00</dc:modified>
+    <om:includedIn>
+      
+    </om:includedIn>
+    <om:includedIn>
+      
+    </om:includedIn>
+    
+    <dc:format xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">8 x 9.75 in</dc:format>
+    
+    <om:byline xml:lang="en">By Charles Platt</om:byline>
+    
+    
+    
+    
+    <om:inPracticeAreaName xml:lang="en">Make</om:inPracticeAreaName>
+    <om:competition rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral">&lt;ol&gt;&lt;li&gt;Teach Yourself Electricity and Electronics by Stan Gibilisco, McGraw-Hill/TAB Electronics, ISBN: 978-0071459334, March 2006, 698 pages, $34.95&lt;/li&gt;&lt;li&gt;Electronics for Dummies, Gordon McComb and Cathleen Shamieh, For Dummies, ISBN: 978-0470286975, September 2009, 432 pages, $24.99&lt;/li&gt;&lt;li&gt;Getting Started in Electronics, by Forrest M. Mims III, Master Publishing, Inc., ISBN: 978-0945053286, February 2003, 128 pages, $19.95&lt;/li&gt;&lt;/ol&gt;</om:competition>
+    
+    
+    
+    <om:endNewStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-03-01T00:00:00</om:endNewStatus>
+    <om:division rdf:resource="http://purl.oreilly.com/divisions/DIS"/>
+    <om:prodeditor rdf:resource="urn:x-domain:oreilly.com:agent:pdb:2352"/>
+    
+    <om:inPracticeArea rdf:resource="http://purl.oreilly.com/practice-area/Make"/>
+    <om:willSellLike rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral">&lt;p&gt;Making Things Talk, 9780596510510
+Getting Started with Arduino, 9780596155513&lt;/p&gt;</om:willSellLike>
+    
+    
+    
+    <dc:title xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Make: Electronics</dc:title>
+    
+    
+    <om:editorTitle xml:lang="en">Make: Electronics</om:editorTitle>
+    <om:productmanager rdf:resource="urn:x-domain:oreilly.com:agent:pdb:3232"/>
+    
+    <om:beginUpcomingStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-09-01T00:00:00</om:beginUpcomingStatus>
+    <dc:rightsHolder xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Helpful Corporation</dc:rightsHolder>
+    
+    
+    
+    
+    
+    
+    <om:sellsheetHighlight rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral">&lt;p&gt;Make: Electronics is the definitive introductory guide to electronics. Unlike other beginning electronics books, this book takes a workbench-oriented approach to learning about electronics, building useful projects, and having fun.&lt;/p&gt;</om:sellsheetHighlight>
+    
+    
+    
+    
+    <dc:isFormatOf rdf:resource="urn:x-domain:oreilly.com:product:9780596153755.IP" xmlns:dc="http://purl.org/dc/terms/"/>
+    <om:projectManager rdf:resource="urn:x-domain:oreilly.com:agent:pdb:4798"/>
+    
+    <om:sortableTitle xml:lang="en">make: electronics</om:sortableTitle>
+    <om:asciiTitle xml:lang="en">Make: Electronics</om:asciiTitle>
+    
+    
+    <dc:type rdf:resource="http://purl.oreilly.com/product-types/BOOK" xmlns:dc="http://purl.org/dc/terms/"/>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/PhysicalObject" xmlns:dc="http://purl.org/dc/terms/"/>
+    
+    
+    <dc:rights xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Rights reserved by the author include feature-length motion picture rights and rights to electronic game products.  Using all or part of this work in another work requires author's prior approval.  No more than 10% of content (excl. front &amp; back matter &amp; index) can appear in promotional excerpts.  Contact Legal for more info.</dc:rights>
+    
+    <om:shelving rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral">&lt;p&gt;Science/Electronics&lt;/p&gt;</om:shelving>
+    
+    
+    
+    
+    <om:subtitle xml:lang="en">Learning Through Discovery</om:subtitle>
+    
+    <om:whyToBuy rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral">&lt;p&gt;Make: Electronics is the definitive introductory guide to electronics. Unlike other beginning electronics books, this book takes a workbench-oriented approach to learning about electronics, building useful projects, and having fun.&lt;/p&gt;</om:whyToBuy>
+    
+    
+    
+    <marcrel:COV rdf:resource="urn:x-domain:oreilly.com:agent:pdb:2986" xmlns:marcrel="http://www.loc.gov/loc.terms/relators/"/>
+    
+    
+    <trons:validAccordingTo rdf:resource="http://purl.oreilly.com/statuses/editorial" xmlns:trons="http://purl.oreilly.com/ns/trons/"/>
+    <trons:validAccordingTo rdf:resource="http://purl.oreilly.com/statuses/active" xmlns:trons="http://purl.oreilly.com/ns/trons/"/>
+    <trons:validAccordingTo rdf:resource="http://purl.oreilly.com/statuses/publicly-visible" xmlns:trons="http://purl.oreilly.com/ns/trons/"/>
+    <om:primarySubject rdf:resource="http://purl.oreilly.com/resource-center/electronics"/>
+    <om:primarySubject>
+      <rdf:Description rdf:about="http://www.bisg.org/standards/bisac_subject/TEC008000">
+        <dcam:memberOf rdf:resource="http://www.bisg.org/standards/bisac_subject" xmlns:dcam="http://purl.org/dc/dcam/"/>
+        <dc:title xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">TECHNOLOGY &amp; ENGINEERING / Electronics / General</dc:title>
+      </rdf:Description>
+    </om:primarySubject>
+    
+    <om:imprint xml:lang="en">Maker Media, Inc</om:imprint>
+    
+    
+    <om:audience rdf:resource="http://purl.oreilly.com/audiences/NTU"/>
+    
+    
+    
+    
+    
+    <marcrel:EDT rdf:resource="urn:x-domain:oreilly.com:agent:pdb:163" xmlns:marcrel="http://www.loc.gov/loc.terms/relators/"/>
+    <marcrel:EDT rdf:resource="urn:x-domain:oreilly.com:agent:pdb:471" xmlns:marcrel="http://www.loc.gov/loc.terms/relators/"/>
+    
+    <om:sellingPoints rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral">&lt;ol&gt;&lt;li&gt;Includes full color photographs that are informative, useful, and engaging&lt;/li&gt;&lt;li&gt;Branded with the MAKE Magazine look and feel, this book targets the MAKE core audience&lt;/li&gt;&lt;li&gt;A hands-on book that provides the reader with engaging experiences&lt;/li&gt;&lt;li&gt;Heavily illustrated with electronic circuit diagrams that can be read by non-technical readers&lt;/li&gt;&lt;/ol&gt;</om:sellingPoints>
+    <dc:created xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">2007-11-13</dc:created>
+    <om:videoPreview xml:lang="en"/>
+    
+    <om:audienceDescription rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral">&lt;p&gt;Beginners to electronics, as well as people with intermediate skills who want to learn more.&lt;/p&gt;</om:audienceDescription>
+    
+    
+    
+    <marcrel:CRR rdf:resource="urn:x-domain:oreilly.com:agent:pdb:762" xmlns:marcrel="http://www.loc.gov/loc.terms/relators/"/>
+    <dc:identifier rdf:resource="urn:epc:id:gtin:0636920.015374" xmlns:dc="http://purl.org/dc/terms/"/>
+    <dc:identifier rdf:resource="urn:isbn:9780596153748" xmlns:dc="http://purl.org/dc/terms/"/>
+    <om:prodmanager rdf:resource="urn:x-domain:oreilly.com:agent:pdb:1441"/>
+    
+    
+    
+    
+    
+    <dc:description rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral" xmlns:dc="http://purl.org/dc/terms/">&lt;p&gt;Want to learn the fundamentals of electronics in a fun, hands-on way? With &lt;i&gt;Make: Electronics&lt;/i&gt;, you'll start working on real projects as soon as you crack open the book. Explore all of the key components and essential principles through a series of fascinating experiments. You'll build the circuits first, &lt;i&gt;then&lt;/i&gt; learn the theory behind them! Step-by-step instructions and more than 500 full-color photographs and illustrations will help you use -- and understand -- electronics concepts and techniques.&lt;/p&gt;</dc:description>
+    
+    <dc:hasPart xmlns:dc="http://purl.org/dc/terms/">
+      
+    </dc:hasPart>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbd12efbfbd3251627cbefbfbd3845efbfbdefbfbdefbfbd4f?remote=urn:x-domain:oreilly.com:product:9780596153748.BOOK">
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</trons:isValid>
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/active"/>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbdefbfbd7d4e5efbfbd2fefbfbdefbfbd2c543fefbfbdefbfbdefbfbdf?remote=urn:x-domain:oreilly.com:product:9780596153748.BOOK">
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/out-of-print"/>
+        <trons:becauseOf xml:lang="en">Book, PrintBookNonDistributable, DVD, Video, CD Bookshelf, PDF, EBOOK, MOBI, EPUB, EarlyReleaseEbook, AndroidApp or iPhoneApp must be Out of Print.</trons:becauseOf>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbd41215f9346d322a5b4b625fefbfbd522f?remote=urn:x-domain:oreilly.com:product:9780596153748.BOOK">
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/cancelled"/>
+        <trons:becauseOf xml:lang="en">Product must set as Cancelled in the Product Database.</trons:becauseOf>
+        <trons:becauseOf xml:lang="en">Product must NOT have been issued (published).</trons:becauseOf>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/7954efbfbdefbfbd3a4fefbfbdefbfbd1eefbfbdefbfbd582e4b20?remote=urn:x-domain:oreilly.com:product:9780596153748.BOOK">
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</trons:isValid>
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/editorial"/>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbdefbfbd516323efbfbd57efbfbdefbfbd677718675ace8d?remote=urn:x-domain:oreilly.com:product:9780596153748.BOOK">
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/out-of-stock-indefinitely"/>
+        <trons:becauseOf xml:lang="en">Product must have a printing status with the Oracle code Do Not Reprint or Out of Stock Indefinitely.</trons:becauseOf>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/3e66eea48a2defbfbdefbfbd4defbfbd3c3275efbfbd65?remote=urn:x-domain:oreilly.com:product:9780596153748.BOOK">
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/stalled"/>
+        <trons:becauseOf xml:lang="en">Product Status must be Pending.</trons:becauseOf>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbd5641efbfbdefbfbdefbfbdefbfbd4b34cefbfbdefbfbdefbfbd66efbfbd?remote=urn:x-domain:oreilly.com:product:9780596153748.BOOK">
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/discontinued"/>
+        <trons:becauseOf xml:lang="en">                  Product status must be set to one of "Publication Cancelled", "Distribution Cancelled" or "No Longer ORM Publication" in the Product Database.             </trons:becauseOf>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/583d25efbfbd713cefbfbd464befbfbde3c2b6959efbfbd?remote=urn:x-domain:oreilly.com:product:9780596153748.BOOK">
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</trons:isValid>
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/publicly-visible"/>
+      </trons:Result>
+    </trons:validation>
+    <om:cover rdf:resource="http://oreilly.com/catalog/covers/9780596153748_cat.gif"/>
+    
+    <om:printings>
+      <rdf:Seq rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9780596153748.BOOK#printings">
+        <rdf:_9>
+          <om:Printing rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9780596153748.BOOK#WO-9697">
+            
+            
+            <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date" xmlns:dc="http://purl.org/dc/terms/">2011-08-24</dc:issued>
+            
+            <om:binding xml:lang="en">Perfect</om:binding>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <dc:title xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Make: Electronics</dc:title>
+            
+            
+            <om:beginUpcomingStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-05-01T00:00:00</om:beginUpcomingStatus>
+            
+            
+            
+            
+            
+            <om:estimatedIssue rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-08-24</om:estimatedIssue>
+            
+            
+            <om:endNewStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-11-01T00:00:00</om:endNewStatus>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+          </om:Printing>
+        </rdf:_9>
+        <rdf:_15>
+          <om:Printing rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9780596153748.BOOK#WO-12886">
+            
+            
+            <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date" xmlns:dc="http://purl.org/dc/terms/">2012-11-06</dc:issued>
+            
+            <om:binding xml:lang="en">Perfect</om:binding>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <dc:title xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Make: Electronics</dc:title>
+            
+            
+            <om:beginUpcomingStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-08-01T00:00:00</om:beginUpcomingStatus>
+            
+            
+            
+            
+            
+            <om:estimatedIssue rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-11-05</om:estimatedIssue>
+            
+            <om:endNewStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-02-01T00:00:00</om:endNewStatus>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+          </om:Printing>
+        </rdf:_15>
+        <rdf:_4>
+          <om:Printing rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9780596153748.BOOK#WO-8640">
+            
+            
+            
+            <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date" xmlns:dc="http://purl.org/dc/terms/">2010-06-21</dc:issued>
+            
+            <om:binding xml:lang="en">Otabind</om:binding>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <dc:title xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Make: Electronics</dc:title>
+            
+            <om:beginUpcomingStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-03-01T00:00:00</om:beginUpcomingStatus>
+            
+            
+            
+            
+            
+            <om:estimatedIssue rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-06-16</om:estimatedIssue>
+            
+            
+            <om:endNewStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-09-01T00:00:00</om:endNewStatus>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+          </om:Printing>
+        </rdf:_4>
+        <rdf:_21>
+          <om:Printing rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9780596153748.BOOK#WO-16450">
+            
+            <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date" xmlns:dc="http://purl.org/dc/terms/">2013-12-23</dc:issued>
+            
+            <om:binding xml:lang="en">Perfect</om:binding>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <dc:title xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Make: Electronics</dc:title>
+            
+            
+            <om:beginUpcomingStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-09-01T00:00:00</om:beginUpcomingStatus>
+            
+            
+            
+            
+            
+            <om:estimatedIssue rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-12-23</om:estimatedIssue>
+            
+            <om:endNewStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-03-01T00:00:00</om:endNewStatus>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+          </om:Printing>
+        </rdf:_21>
+        <rdf:_13>
+          <om:Printing rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9780596153748.BOOK#WO-12280">
+            
+            
+            <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date" xmlns:dc="http://purl.org/dc/terms/">2012-08-17</dc:issued>
+            
+            <om:binding xml:lang="en">Perfect</om:binding>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <dc:title xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Make: Electronics</dc:title>
+            
+            
+            <om:beginUpcomingStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-05-01T00:00:00</om:beginUpcomingStatus>
+            
+            
+            
+            
+            
+            <om:estimatedIssue rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-08-17</om:estimatedIssue>
+            
+            <om:endNewStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-01T00:00:00</om:endNewStatus>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+          </om:Printing>
+        </rdf:_13>
+        <rdf:_16>
+          <om:Printing rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9780596153748.BOOK#WO-13329">
+            
+            
+            <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date" xmlns:dc="http://purl.org/dc/terms/">2013-01-14</dc:issued>
+            
+            <om:binding xml:lang="en">Perfect</om:binding>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <dc:title xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Make: Electronics</dc:title>
+            
+            
+            <om:beginUpcomingStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-10-01T00:00:00</om:beginUpcomingStatus>
+            
+            
+            
+            
+            
+            <om:estimatedIssue rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-01-14</om:estimatedIssue>
+            
+            
+            <om:endNewStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-04-01T00:00:00</om:endNewStatus>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+          </om:Printing>
+        </rdf:_16>
+        <rdf:_18>
+          <om:Printing rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9780596153748.BOOK#WO-14981">
+            
+            <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date" xmlns:dc="http://purl.org/dc/terms/">2013-06-03</dc:issued>
+            
+            <om:binding xml:lang="en">Lay-flat</om:binding>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <dc:title xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Make: Electronics</dc:title>
+            
+            <om:beginUpcomingStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-03-01T00:00:00</om:beginUpcomingStatus>
+            
+            
+            
+            
+            <om:estimatedIssue rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-05-31</om:estimatedIssue>
+            
+            
+            <om:endNewStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-09-01T00:00:00</om:endNewStatus>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+          </om:Printing>
+        </rdf:_18>
+        <rdf:_12>
+          <om:Printing rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9780596153748.BOOK#WO-11137">
+            
+            
+            <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date" xmlns:dc="http://purl.org/dc/terms/">2012-03-12</dc:issued>
+            
+            <om:binding xml:lang="en">Perfect</om:binding>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <dc:title xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Make: Electronics</dc:title>
+            
+            
+            <om:beginUpcomingStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-12-01T00:00:00</om:beginUpcomingStatus>
+            
+            
+            
+            
+            
+            <om:estimatedIssue rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-03-09</om:estimatedIssue>
+            
+            
+            <om:endNewStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-06-01T00:00:00</om:endNewStatus>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+          </om:Printing>
+        </rdf:_12>
+        <rdf:_10>
+          <om:Printing rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9780596153748.BOOK#WO-10354">
+            
+            
+            <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date" xmlns:dc="http://purl.org/dc/terms/">2011-12-02</dc:issued>
+            
+            <om:binding xml:lang="en">Perfect</om:binding>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <dc:title xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Make: Electronics</dc:title>
+            
+            
+            <om:beginUpcomingStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-09-01T00:00:00</om:beginUpcomingStatus>
+            
+            
+            
+            
+            
+            <om:estimatedIssue rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-12-05</om:estimatedIssue>
+            
+            
+            <om:endNewStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-03-01T00:00:00</om:endNewStatus>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+          </om:Printing>
+        </rdf:_10>
+        <rdf:_7>
+          <om:Printing rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9780596153748.BOOK#WO-9368">
+            
+            
+            
+            <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date" xmlns:dc="http://purl.org/dc/terms/">2011-02-21</dc:issued>
+            
+            <om:binding xml:lang="en">Otabind</om:binding>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <dc:title xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Make: Electronics</dc:title>
+            
+            <om:beginUpcomingStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-11-01T00:00:00</om:beginUpcomingStatus>
+            
+            
+            
+            
+            
+            <om:estimatedIssue rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-02-23</om:estimatedIssue>
+            
+            
+            <om:endNewStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-05-01T00:00:00</om:endNewStatus>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+          </om:Printing>
+        </rdf:_7>
+        <rdf:_6>
+          <om:Printing rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9780596153748.BOOK#WO-9217">
+            
+            
+            
+            <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date" xmlns:dc="http://purl.org/dc/terms/">2010-12-10</dc:issued>
+            
+            <om:binding xml:lang="en">Otabind</om:binding>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <dc:title xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Make: Electronics</dc:title>
+            
+            <om:beginUpcomingStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-09-01T00:00:00</om:beginUpcomingStatus>
+            
+            
+            
+            
+            
+            <om:estimatedIssue rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-12-14</om:estimatedIssue>
+            
+            
+            <om:endNewStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-03-01T00:00:00</om:endNewStatus>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+          </om:Printing>
+        </rdf:_6>
+        <rdf:_20>
+          <om:Printing rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9780596153748.BOOK#WO-15865">
+            
+            <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date" xmlns:dc="http://purl.org/dc/terms/">2013-11-05</dc:issued>
+            
+            <om:binding xml:lang="en">Perfect</om:binding>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <dc:title xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Make: Electronics</dc:title>
+            
+            
+            <om:beginUpcomingStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00</om:beginUpcomingStatus>
+            
+            
+            
+            
+            
+            <om:estimatedIssue rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-11-11</om:estimatedIssue>
+            
+            
+            <om:endNewStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-02-01T00:00:00</om:endNewStatus>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+          </om:Printing>
+        </rdf:_20>
+        <rdf:_3>
+          <om:Printing rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9780596153748.BOOK#WO-8476">
+            
+            
+            
+            <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date" xmlns:dc="http://purl.org/dc/terms/">2010-03-09</dc:issued>
+            
+            <om:binding xml:lang="en">Otabind</om:binding>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <dc:title xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Make: Electronics</dc:title>
+            
+            <om:beginUpcomingStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-12-01T00:00:00</om:beginUpcomingStatus>
+            
+            
+            
+            
+            
+            <om:estimatedIssue rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-03-09</om:estimatedIssue>
+            
+            
+            <om:endNewStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-06-01T00:00:00</om:endNewStatus>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+          </om:Printing>
+        </rdf:_3>
+        <rdf:_2>
+          <om:Printing rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9780596153748.BOOK#WO-8385">
+            
+            
+            <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date" xmlns:dc="http://purl.org/dc/terms/">2010-01-20</dc:issued>
+            
+            <om:binding xml:lang="en">Otabind</om:binding>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <dc:title xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Make: Electronics</dc:title>
+            
+            <om:beginUpcomingStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-10-01T00:00:00</om:beginUpcomingStatus>
+            
+            
+            
+            
+            
+            <om:estimatedIssue rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-01-20</om:estimatedIssue>
+            
+            
+            <om:endNewStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-04-01T00:00:00</om:endNewStatus>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+          </om:Printing>
+        </rdf:_2>
+        <rdf:_5>
+          <om:Printing rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9780596153748.BOOK#WO-8788">
+            
+            
+            
+            <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date" xmlns:dc="http://purl.org/dc/terms/">2010-09-03</dc:issued>
+            
+            <om:binding xml:lang="en">Otabind</om:binding>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <dc:title xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Make: Electronics</dc:title>
+            
+            <om:beginUpcomingStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-06-01T00:00:00</om:beginUpcomingStatus>
+            
+            
+            
+            
+            
+            <om:estimatedIssue rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-08-31</om:estimatedIssue>
+            
+            
+            <om:endNewStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-12-01T00:00:00</om:endNewStatus>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+          </om:Printing>
+        </rdf:_5>
+        <rdf:_19>
+          <om:Printing rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9780596153748.BOOK#WO-15425">
+            
+            <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date" xmlns:dc="http://purl.org/dc/terms/">2013-08-13</dc:issued>
+            
+            <om:binding xml:lang="en">Perfect</om:binding>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <dc:title xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Make: Electronics</dc:title>
+            
+            
+            <om:beginUpcomingStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-05-01T00:00:00</om:beginUpcomingStatus>
+            
+            
+            
+            
+            
+            <om:estimatedIssue rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-08-09</om:estimatedIssue>
+            
+            
+            <om:endNewStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-11-01T00:00:00</om:endNewStatus>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+          </om:Printing>
+        </rdf:_19>
+        <rdf:_1>
+          <om:Printing rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9780596153748.BOOK#WO-8265">
+            
+            <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date" xmlns:dc="http://purl.org/dc/terms/">2009-12-10</dc:issued>
+            
+            <om:binding xml:lang="en">Otabind</om:binding>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <dc:title xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Make: Electronics</dc:title>
+            
+            
+            <om:beginUpcomingStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-09-01T00:00:00</om:beginUpcomingStatus>
+            
+            
+            
+            
+            
+            <om:estimatedIssue rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-12-10</om:estimatedIssue>
+            
+            
+            <om:endNewStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-03-01T00:00:00</om:endNewStatus>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+          </om:Printing>
+        </rdf:_1>
+        <rdf:_17>
+          <om:Printing rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9780596153748.BOOK#WO-14460">
+            
+            <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date" xmlns:dc="http://purl.org/dc/terms/">2013-04-05</dc:issued>
+            
+            <om:binding xml:lang="en">Perfect</om:binding>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <dc:title xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Make: Electronics</dc:title>
+            
+            
+            <om:beginUpcomingStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-01-01T00:00:00</om:beginUpcomingStatus>
+            
+            
+            
+            
+            
+            <om:estimatedIssue rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-04-08</om:estimatedIssue>
+            
+            
+            <om:endNewStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-07-01T00:00:00</om:endNewStatus>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+          </om:Printing>
+        </rdf:_17>
+        <rdf:_11>
+          <om:Printing rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9780596153748.BOOK#WO-10595">
+            
+            
+            <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date" xmlns:dc="http://purl.org/dc/terms/">2012-01-27</dc:issued>
+            
+            <om:binding xml:lang="en">Perfect</om:binding>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <dc:title xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Make: Electronics</dc:title>
+            
+            
+            <om:beginUpcomingStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-10-01T00:00:00</om:beginUpcomingStatus>
+            
+            
+            
+            
+            
+            <om:estimatedIssue rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-01-31</om:estimatedIssue>
+            
+            
+            <om:endNewStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-04-01T00:00:00</om:endNewStatus>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+          </om:Printing>
+        </rdf:_11>
+        <rdf:_14>
+          <om:Printing rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9780596153748.BOOK#WO-12457">
+            
+            
+            <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date" xmlns:dc="http://purl.org/dc/terms/">2012-09-13</dc:issued>
+            
+            <om:binding xml:lang="en">Perfect</om:binding>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <dc:title xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Make: Electronics</dc:title>
+            
+            
+            <om:beginUpcomingStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-06-01T00:00:00</om:beginUpcomingStatus>
+            
+            
+            
+            
+            
+            <om:estimatedIssue rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-09-10</om:estimatedIssue>
+            
+            
+            <om:endNewStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-12-01T00:00:00</om:endNewStatus>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+          </om:Printing>
+        </rdf:_14>
+        <rdf:_8>
+          <om:Printing rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9780596153748.BOOK#WO-9599">
+            
+            
+            <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date" xmlns:dc="http://purl.org/dc/terms/">2011-05-14</dc:issued>
+            
+            <om:binding xml:lang="en">Otabind</om:binding>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <dc:title xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Make: Electronics</dc:title>
+            
+            
+            <om:beginUpcomingStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-02-01T00:00:00</om:beginUpcomingStatus>
+            
+            
+            
+            
+            
+            <om:estimatedIssue rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-05-19</om:estimatedIssue>
+            
+            
+            <om:endNewStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-08-01T00:00:00</om:endNewStatus>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+          </om:Printing>
+        </rdf:_8>
+      </rdf:Seq>
+    </om:printings>
+    <om:customerTitle xml:lang="en">Make: Electronics</om:customerTitle>
+    <om:price>
+      <om:PerUnit rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9780596153748.BOOK#price-CAN-01">
+        
+        
+        
+        <rdf:value xml:lang="en">43.99</rdf:value>
+        
+        
+        <om:currency rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">124</om:currency>
+        
+        
+        <dc:spatial xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">CAN</dc:spatial>
+        
+      </om:PerUnit>
+    </om:price>
+    <om:price>
+      <om:PerUnit rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9780596153748.BOOK#price-USA-01">
+        
+        
+        
+        <rdf:value xml:lang="en">34.99</rdf:value>
+        
+        
+        <om:currency rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">840</om:currency>
+        
+        
+        <dc:spatial xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">USA</dc:spatial>
+        
+      </om:PerUnit>
+    </om:price>
+    <om:price>
+      <om:PerUnit rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9780596153748.BOOK#price-GBE-01">
+        
+        
+        
+        <rdf:value xml:lang="en">28.00</rdf:value>
+        
+        
+        <om:currency rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">826</om:currency>
+        
+        
+        <dc:spatial xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">GBE</dc:spatial>
+        
+      </om:PerUnit>
+    </om:price>
+    <om:price>
+      <om:PerUnit rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9780596153748.BOOK#price-GBR-01">
+        
+        
+        
+        <rdf:value xml:lang="en">26.99</rdf:value>
+        
+        
+        <om:currency rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">826</om:currency>
+        
+        
+        <dc:spatial xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">GBR</dc:spatial>
+        
+      </om:PerUnit>
+    </om:price>
+    <dc:creator xmlns:dc="http://purl.org/dc/terms/">
+      <rdf:Seq rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9780596153748.BOOK#creator">
+        <rdf:_1 rdf:resource="urn:x-domain:oreilly.com:agent:pdb:3468"/>
+      </rdf:Seq>
+    </dc:creator>
+    
+    <om:estimatedIssue rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2009-12-15</om:estimatedIssue>
+    
+    <om:indexer rdf:resource="urn:x-domain:oreilly.com:agent:pdb:1212"/>
+    <marcrel:PBD rdf:resource="urn:x-domain:oreilly.com:agent:pdb:163" xmlns:marcrel="http://www.loc.gov/loc.terms/relators/"/>
+    
+    
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/staging"/>
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/oreilly_com"/>
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/bds"/>
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/amazonuk"/>
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/genzmag"/>
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/bowker"/>
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/ingram"/>
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/hbfenn"/>
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/roodveldt"/>
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/open_library"/>
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/amazon"/>
+    
+    <dc:publisher rdf:resource="http://purl.oreilly.com/publishers/MMI" xmlns:dc="http://purl.org/dc/terms/"/>
+    
+    
+    
+    
+    <om:printingStatus>
+      <rdf:Description rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9780596153748.BOOK#printing-status">
+        <rdf:value xml:lang="en">Normal</rdf:value>
+        
+      </rdf:Description>
+    </om:printingStatus>
+  </om:Product><om:Product rdf:about="urn:x-domain:oreilly.com:product:9781449388799.EPUB" xml:lang="en" xmlns:om="http://purl.oreilly.com/ns/meta/">
+    <dc:description rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral" xmlns:dc="http://purl.org/dc/terms/">&lt;p&gt;Want to learn the fundamentals of electronics in a fun, hands-on way? With &lt;i&gt;Make: Electronics&lt;/i&gt;, you'll start working on real projects as soon as you crack open the book. Explore all of the key components and essential principles through a series of fascinating experiments. You'll build the circuits first, &lt;i&gt;then&lt;/i&gt; learn the theory behind them! Step-by-step instructions and more than 500 full-color photographs and illustrations will help you use -- and understand -- electronics concepts and techniques.&lt;/p&gt;</dc:description>
+    <om:primarySubject rdf:resource="http://purl.oreilly.com/resource-center/electronics"/>
+    <om:division rdf:resource="http://purl.oreilly.com/divisions/DIS"/>
+    
+    
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/583d25efbfbd713cefbfbd464befbfbde3c2b6959efbfbd?remote=urn:x-domain:oreilly.com:product:9781449388799.EPUB">
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</trons:isValid>
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/publicly-visible"/>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbd41215f9346d322a5b4b625fefbfbd522f?remote=urn:x-domain:oreilly.com:product:9781449388799.EPUB">
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+        <trons:becauseOf xml:lang="en">Product must set as Cancelled in the Product Database.</trons:becauseOf>
+        <trons:becauseOf xml:lang="en">Product must NOT have been issued (published).</trons:becauseOf>
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/cancelled"/>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/3e66eea48a2defbfbdefbfbd4defbfbd3c3275efbfbd65?remote=urn:x-domain:oreilly.com:product:9781449388799.EPUB">
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+        <trons:becauseOf xml:lang="en">Product Status must be Pending.</trons:becauseOf>
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/stalled"/>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbdefbfbd7d4e5efbfbd2fefbfbdefbfbd2c543fefbfbdefbfbdefbfbdf?remote=urn:x-domain:oreilly.com:product:9781449388799.EPUB">
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+        <trons:becauseOf xml:lang="en">Book, PrintBookNonDistributable, DVD, Video, CD Bookshelf, PDF, EBOOK, MOBI, EPUB, EarlyReleaseEbook, AndroidApp or iPhoneApp must be Out of Print.</trons:becauseOf>
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/out-of-print"/>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbd5641efbfbdefbfbdefbfbdefbfbd4b34cefbfbdefbfbdefbfbd66efbfbd?remote=urn:x-domain:oreilly.com:product:9781449388799.EPUB">
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+        <trons:becauseOf xml:lang="en">                  Product status must be set to one of "Publication Cancelled", "Distribution Cancelled" or "No Longer ORM Publication" in the Product Database.             </trons:becauseOf>
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/discontinued"/>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/7954efbfbdefbfbd3a4fefbfbdefbfbd1eefbfbdefbfbd582e4b20?remote=urn:x-domain:oreilly.com:product:9781449388799.EPUB">
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</trons:isValid>
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/editorial"/>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbdefbfbd516323efbfbd57efbfbdefbfbd677718675ace8d?remote=urn:x-domain:oreilly.com:product:9781449388799.EPUB">
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+        <trons:becauseOf xml:lang="en">Only Books can go Out of Stock Indefinitely</trons:becauseOf>
+        <trons:becauseOf xml:lang="en">Product must have a printing status with the Oracle code Do Not Reprint or Out of Stock Indefinitely.</trons:becauseOf>
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/out-of-stock-indefinitely"/>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbd12efbfbd3251627cbefbfbd3845efbfbdefbfbdefbfbd4f?remote=urn:x-domain:oreilly.com:product:9781449388799.EPUB">
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</trons:isValid>
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/active"/>
+      </trons:Result>
+    </trons:validation>
+    <om:projectManager rdf:resource="urn:x-domain:oreilly.com:agent:pdb:4798"/>
+    
+    <om:price>
+      <om:PerUnit rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9781449388799.EPUB#price-USA-01">
+        
+        <dc:spatial xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">USA</dc:spatial>
+        
+        
+        
+        <om:currency rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">840</om:currency>
+        <rdf:value xml:lang="en">27.99</rdf:value>
+        
+        
+        
+        
+      </om:PerUnit>
+    </om:price>
+    
+    <dc:isFormatOf rdf:resource="urn:x-domain:oreilly.com:product:9780596153755.IP" xmlns:dc="http://purl.org/dc/terms/"/>
+    <dc:identifier rdf:resource="urn:isbn:9781449388799" xmlns:dc="http://purl.org/dc/terms/"/>
+    <om:beginUpcomingStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-08-01T00:00:00</om:beginUpcomingStatus>
+    <om:editionLabel xml:lang="en"/>
+    
+    <dc:type rdf:resource="http://purl.oreilly.com/product-types/EPUB" xmlns:dc="http://purl.org/dc/terms/"/>
+    <om:endNewStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-02-01T00:00:00</om:endNewStatus>
+    <mods:edition xml:lang="en" xmlns:mods="http://www.loc.gov/mods/">1</mods:edition>
+    
+    <om:audience rdf:resource="http://purl.oreilly.com/audiences/"/>
+    
+    
+    
+    <om:asciiTitle xml:lang="en">Make: Electronics</om:asciiTitle>
+    
+    <om:videoPreview xml:lang="en"/>
+    
+    
+    <om:customerTitle xml:lang="en">Make: Electronics</om:customerTitle>
+    
+    <om:approvedToAnnounceBy xml:lang="en">cindy</om:approvedToAnnounceBy>
+    
+    <om:videoTableOfContents xml:lang="en"/>
+    <dc:publisher rdf:resource="http://purl.oreilly.com/publishers/MMI" xmlns:dc="http://purl.org/dc/terms/"/>
+    <om:editorTitle xml:lang="en">Make: Electronics</om:editorTitle>
+    <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime" xmlns:dc="http://purl.org/dc/terms/">2014-01-04T08:09:17.795656+00:00</dc:modified>
+    <dc:title xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Make: Electronics</dc:title>
+    
+    
+    <om:imprint xml:lang="en">Maker Media, Inc</om:imprint>
+    <dc:creator xmlns:dc="http://purl.org/dc/terms/">
+      <rdf:Seq rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9781449388799.EPUB#creator">
+        <rdf:_1 rdf:resource="urn:x-domain:oreilly.com:agent:pdb:3468"/>
+      </rdf:Seq>
+    </dc:creator>
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/google"/>
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/legacy_aldiko"/>
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/ebooks_com"/>
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/books_on_board"/>
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/woodslane"/>
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/entourage_edge"/>
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/diesel"/>
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/bookglutton"/>
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/kobo"/>
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/ebookpie"/>
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/ecarrel"/>
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/legacy_stanza"/>
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/immat%C3%A9riel"/>
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/barnes_and_noble"/>
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/ibookstore"/>
+    <dc:language xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">en-US</dc:language>
+    <om:sortableTitle xml:lang="en">make: electronics</om:sortableTitle>
+    <dc:subject rdf:resource="http://www.bisg.org/standards/bisac_subject/TEC008010" xmlns:dc="http://purl.org/dc/terms/"/>
+    <dc:subject rdf:resource="http://www.bisg.org/standards/bisac_subject/TEC009000" xmlns:dc="http://purl.org/dc/terms/"/>
+    <dc:subject rdf:resource="http://oreilly.com/pdb/legacy/programSubject/SCI" xmlns:dc="http://purl.org/dc/terms/"/>
+    <dc:subject rdf:resource="http://www.bisg.org/standards/bisac_subject/TEC037000" xmlns:dc="http://purl.org/dc/terms/"/>
+    <om:byline xml:lang="en">By Charles Platt</om:byline>
+    <dc:abstract rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral" xmlns:dc="http://purl.org/dc/terms/">&lt;div&gt;&lt;p&gt;"This is teaching at its best!"&lt;br/&gt;&lt;br/&gt;
+--Hans Camenzind, inventor of the 555 timer (the world's most successful integrated circuit), and author of &lt;i&gt;Much Ado About Almost Nothing: Man's Encounter with the Electron&lt;/i&gt; (Booklocker.com)
+&lt;/p&gt;&lt;p&gt;
+"A fabulous book: well written, well paced, fun, and informative. I also love the sense of humor. It's very good at disarming the fear. And it's &lt;i&gt;gorgeous&lt;/i&gt;. I'll be recommending this book highly."&lt;br/&gt;&lt;br/&gt;
+--Tom Igoe, author of Physical Computing and Making Things Talk
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Want to learn the fundamentals of electronics in a fun, hands-on way? With &lt;i&gt;Make: Electronics&lt;/i&gt;, you'll start working on real projects as soon as you crack open the book. Explore all of the key components and essential principles through a series of fascinating experiments. You'll build the circuits first, &lt;i&gt;then&lt;/i&gt; learn the theory behind them! 
+&lt;/p&gt;&lt;p&gt;&lt;b&gt;Build working devices, from simple to complex&lt;/b&gt;
+You'll start with the basics and then move on to more complicated projects. Go from switching circuits to integrated circuits, and from simple alarms to programmable microcontrollers. Step-by-step instructions and more than 500 full-color photographs and illustrations will help you use -- and understand -- electronics concepts and techniques. 
+&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Discover by breaking things: experiment with components and learn from failure
+&lt;/li&gt;&lt;li&gt;Set up a tricked-out project space: make a work area at home, equipped with the tools and parts you'll need
+&lt;/li&gt;&lt;li&gt;Learn about key electronic components and their functions within a circuit
+&lt;/li&gt;&lt;li&gt;Create an intrusion alarm, holiday lights, wearable electronic jewelry, audio processors, a reflex tester, and a combination lock
+&lt;/li&gt;&lt;li&gt;Build an autonomous robot cart that can sense its environment and avoid obstacles
+&lt;/li&gt;&lt;li&gt;Get clear, easy-to-understand explanations of what you're doing and why&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</dc:abstract>
+    
+    
+    
+    
+    <om:subtitle xml:lang="en">Learning Through Discovery</om:subtitle>
+    
+    <marcrel:EDT rdf:resource="urn:x-domain:oreilly.com:agent:pdb:471" xmlns:marcrel="http://www.loc.gov/loc.terms/relators/"/>
+    <marcrel:EDT rdf:resource="urn:x-domain:oreilly.com:agent:pdb:163" xmlns:marcrel="http://www.loc.gov/loc.terms/relators/"/>
+    
+    
+    <om:imprint_short_name xml:lang="en">MMI</om:imprint_short_name>
+    <dc:rightsHolder xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Helpful Corporation</dc:rightsHolder>
+    <trons:validAccordingTo rdf:resource="http://purl.oreilly.com/statuses/publicly-visible" xmlns:trons="http://purl.oreilly.com/ns/trons/"/>
+    <trons:validAccordingTo rdf:resource="http://purl.oreilly.com/statuses/active" xmlns:trons="http://purl.oreilly.com/ns/trons/"/>
+    <trons:validAccordingTo rdf:resource="http://purl.oreilly.com/statuses/editorial" xmlns:trons="http://purl.oreilly.com/ns/trons/"/>
+    
+    
+    
+    
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date" xmlns:dc="http://purl.org/dc/terms/">2009-11-23</dc:issued>
+    <marcrel:PBD rdf:resource="urn:x-domain:oreilly.com:agent:pdb:163" xmlns:marcrel="http://www.loc.gov/loc.terms/relators/"/>
+  </om:Product><om:Product rdf:about="urn:x-domain:oreilly.com:product:9781449323585.MOBI" xml:lang="en" xmlns:om="http://purl.oreilly.com/ns/meta/">
+    
+    <om:projectManager rdf:resource="urn:x-domain:oreilly.com:agent:pdb:4798"/>
+    
+    
+    
+    <dc:rightsHolder xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Helpful Corporation</dc:rightsHolder>
+    
+    <trons:validAccordingTo rdf:resource="http://purl.oreilly.com/statuses/editorial" xmlns:trons="http://purl.oreilly.com/ns/trons/"/>
+    <trons:validAccordingTo rdf:resource="http://purl.oreilly.com/statuses/active" xmlns:trons="http://purl.oreilly.com/ns/trons/"/>
+    <trons:validAccordingTo rdf:resource="http://purl.oreilly.com/statuses/publicly-visible" xmlns:trons="http://purl.oreilly.com/ns/trons/"/>
+    <om:audience rdf:resource="http://purl.oreilly.com/audiences/"/>
+    <dc:identifier rdf:resource="urn:isbn:9781449323585" xmlns:dc="http://purl.org/dc/terms/"/>
+    
+    
+    
+    <om:asciiTitle xml:lang="en">Make: Electronics</om:asciiTitle>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbdefbfbd516323efbfbd57efbfbdefbfbd677718675ace8d?remote=urn:x-domain:oreilly.com:product:9781449323585.MOBI">
+        <trons:becauseOf xml:lang="en">Product must have a printing status with the Oracle code Do Not Reprint or Out of Stock Indefinitely.</trons:becauseOf>
+        <trons:becauseOf xml:lang="en">Only Books can go Out of Stock Indefinitely</trons:becauseOf>
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/out-of-stock-indefinitely"/>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/583d25efbfbd713cefbfbd464befbfbde3c2b6959efbfbd?remote=urn:x-domain:oreilly.com:product:9781449323585.MOBI">
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</trons:isValid>
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/publicly-visible"/>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbdefbfbd7d4e5efbfbd2fefbfbdefbfbd2c543fefbfbdefbfbdefbfbdf?remote=urn:x-domain:oreilly.com:product:9781449323585.MOBI">
+        <trons:becauseOf xml:lang="en">Book, PrintBookNonDistributable, DVD, Video, CD Bookshelf, PDF, EBOOK, MOBI, EPUB, EarlyReleaseEbook, AndroidApp or iPhoneApp must be Out of Print.</trons:becauseOf>
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/out-of-print"/>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbd12efbfbd3251627cbefbfbd3845efbfbdefbfbdefbfbd4f?remote=urn:x-domain:oreilly.com:product:9781449323585.MOBI">
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</trons:isValid>
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/active"/>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbd41215f9346d322a5b4b625fefbfbd522f?remote=urn:x-domain:oreilly.com:product:9781449323585.MOBI">
+        <trons:becauseOf xml:lang="en">Product must NOT have been issued (published).</trons:becauseOf>
+        <trons:becauseOf xml:lang="en">Product must set as Cancelled in the Product Database.</trons:becauseOf>
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/cancelled"/>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbd5641efbfbdefbfbdefbfbdefbfbd4b34cefbfbdefbfbdefbfbd66efbfbd?remote=urn:x-domain:oreilly.com:product:9781449323585.MOBI">
+        <trons:becauseOf xml:lang="en">                  Product status must be set to one of "Publication Cancelled", "Distribution Cancelled" or "No Longer ORM Publication" in the Product Database.             </trons:becauseOf>
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/discontinued"/>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/3e66eea48a2defbfbdefbfbd4defbfbd3c3275efbfbd65?remote=urn:x-domain:oreilly.com:product:9781449323585.MOBI">
+        <trons:becauseOf xml:lang="en">Product Status must be Pending.</trons:becauseOf>
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/stalled"/>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/7954efbfbdefbfbd3a4fefbfbdefbfbd1eefbfbdefbfbd582e4b20?remote=urn:x-domain:oreilly.com:product:9781449323585.MOBI">
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</trons:isValid>
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/editorial"/>
+      </trons:Result>
+    </trons:validation>
+    
+    <dc:abstract rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral" xmlns:dc="http://purl.org/dc/terms/">&lt;div&gt;&lt;p&gt;"This is teaching at its best!"&lt;br/&gt;&lt;br/&gt;
+--Hans Camenzind, inventor of the 555 timer (the world's most successful integrated circuit), and author of &lt;i&gt;Much Ado About Almost Nothing: Man's Encounter with the Electron&lt;/i&gt; (Booklocker.com)
+&lt;/p&gt;&lt;p&gt;
+"A fabulous book: well written, well paced, fun, and informative. I also love the sense of humor. It's very good at disarming the fear. And it's &lt;i&gt;gorgeous&lt;/i&gt;. I'll be recommending this book highly."&lt;br/&gt;&lt;br/&gt;
+--Tom Igoe, author of Physical Computing and Making Things Talk
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Want to learn the fundamentals of electronics in a fun, hands-on way? With &lt;i&gt;Make: Electronics&lt;/i&gt;, you'll start working on real projects as soon as you crack open the book. Explore all of the key components and essential principles through a series of fascinating experiments. You'll build the circuits first, &lt;i&gt;then&lt;/i&gt; learn the theory behind them! 
+&lt;/p&gt;&lt;p&gt;&lt;b&gt;Build working devices, from simple to complex&lt;/b&gt;
+You'll start with the basics and then move on to more complicated projects. Go from switching circuits to integrated circuits, and from simple alarms to programmable microcontrollers. Step-by-step instructions and more than 500 full-color photographs and illustrations will help you use -- and understand -- electronics concepts and techniques. 
+&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Discover by breaking things: experiment with components and learn from failure
+&lt;/li&gt;&lt;li&gt;Set up a tricked-out project space: make a work area at home, equipped with the tools and parts you'll need
+&lt;/li&gt;&lt;li&gt;Learn about key electronic components and their functions within a circuit
+&lt;/li&gt;&lt;li&gt;Create an intrusion alarm, holiday lights, wearable electronic jewelry, audio processors, a reflex tester, and a combination lock
+&lt;/li&gt;&lt;li&gt;Build an autonomous robot cart that can sense its environment and avoid obstacles
+&lt;/li&gt;&lt;li&gt;Get clear, easy-to-understand explanations of what you're doing and why&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</dc:abstract>
+    <dc:created xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">2011-11-15</dc:created>
+    <om:endNewStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-01T00:00:00</om:endNewStatus>
+    
+    <om:editionLabel xml:lang="en">1st Edition</om:editionLabel>
+    <dc:description rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral" xmlns:dc="http://purl.org/dc/terms/">&lt;p&gt;Want to learn the fundamentals of electronics in a fun, hands-on way? With &lt;i&gt;Make: Electronics&lt;/i&gt;, you'll start working on real projects as soon as you crack open the book. Explore all of the key components and essential principles through a series of fascinating experiments. You'll build the circuits first, &lt;i&gt;then&lt;/i&gt; learn the theory behind them! Step-by-step instructions and more than 500 full-color photographs and illustrations will help you use -- and understand -- electronics concepts and techniques.&lt;/p&gt;</dc:description>
+    
+    
+    
+    <om:editorTitle xml:lang="en">Make: Electronics</om:editorTitle>
+    <om:availableIn rdf:resource="http://purl.oreilly.com/channels/kindle"/>
+    
+    <om:division rdf:resource="http://purl.oreilly.com/divisions/DIS"/>
+    <om:approvedToAnnounceBy xml:lang="en">cindy</om:approvedToAnnounceBy>
+    <om:imprint xml:lang="en">Maker Media, Inc</om:imprint>
+    
+    
+    <om:sortableTitle xml:lang="en">make: electronics</om:sortableTitle>
+    
+    
+    <mods:edition xml:lang="en" xmlns:mods="http://www.loc.gov/mods/">1</mods:edition>
+    
+    
+    <om:primarySubject rdf:resource="http://purl.oreilly.com/resource-center/electronics"/>
+    <dc:publisher rdf:resource="http://purl.oreilly.com/publishers/MMI" xmlns:dc="http://purl.org/dc/terms/"/>
+    
+    <dc:creator xmlns:dc="http://purl.org/dc/terms/">
+      <rdf:Seq rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9781449323585.MOBI#creator">
+        <rdf:_1 rdf:resource="urn:x-domain:oreilly.com:agent:pdb:3468"/>
+      </rdf:Seq>
+    </dc:creator>
+    <dc:title xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Make: Electronics</dc:title>
+    
+    
+    
+    
+    
+    
+    <marcrel:PBD rdf:resource="urn:x-domain:oreilly.com:agent:pdb:163" xmlns:marcrel="http://www.loc.gov/loc.terms/relators/"/>
+    
+    
+    
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date" xmlns:dc="http://purl.org/dc/terms/">2011-11-16</dc:issued>
+    <dc:type rdf:resource="http://purl.oreilly.com/product-types/MOBI" xmlns:dc="http://purl.org/dc/terms/"/>
+    
+    <om:imprint_short_name xml:lang="en">MMI</om:imprint_short_name>
+    <dc:isFormatOf rdf:resource="urn:x-domain:oreilly.com:product:9780596153755.IP" xmlns:dc="http://purl.org/dc/terms/"/>
+    
+    
+    
+    <om:byline xml:lang="en">By Charles Platt</om:byline>
+    
+    
+    <om:videoTableOfContents xml:lang="en"/>
+    <om:price>
+      <om:PerUnit rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9781449323585.MOBI#price-GBR-01">
+        
+        
+        
+        <om:currency rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">826</om:currency>
+        
+        <rdf:value xml:lang="en">19.99</rdf:value>
+        <dc:spatial xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">GBR</dc:spatial>
+        
+        
+        
+        
+      </om:PerUnit>
+    </om:price>
+    <om:price>
+      <om:PerUnit rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9781449323585.MOBI#price-CAN-01">
+        
+        
+        
+        <om:currency rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">124</om:currency>
+        
+        <rdf:value xml:lang="en">29.99</rdf:value>
+        <dc:spatial xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">CAN</dc:spatial>
+        
+        
+        
+        
+      </om:PerUnit>
+    </om:price>
+    <om:price>
+      <om:PerUnit rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9781449323585.MOBI#price-USA-01">
+        
+        
+        
+        <om:currency rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">840</om:currency>
+        
+        <rdf:value xml:lang="en">27.99</rdf:value>
+        <dc:spatial xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">USA</dc:spatial>
+        
+        
+        
+        
+      </om:PerUnit>
+    </om:price>
+    <dc:language xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">en-US</dc:language>
+    <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime" xmlns:dc="http://purl.org/dc/terms/">2014-01-04T08:09:22.201286+00:00</dc:modified>
+    
+    
+    
+    <om:videoPreview xml:lang="en"/>
+    
+    
+    
+    
+    <marcrel:EDT rdf:resource="urn:x-domain:oreilly.com:agent:pdb:471" xmlns:marcrel="http://www.loc.gov/loc.terms/relators/"/>
+    <marcrel:EDT rdf:resource="urn:x-domain:oreilly.com:agent:pdb:163" xmlns:marcrel="http://www.loc.gov/loc.terms/relators/"/>
+    
+    
+    <om:subtitle xml:lang="en">Learning Through Discovery</om:subtitle>
+    
+    <om:printings>
+      <rdf:Seq rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9781449323585.MOBI#printings">
+        <rdf:_1>
+          <om:Printing rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9781449323585.MOBI#WO-10448">
+            
+            
+            <dc:title xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Make: Electronics</dc:title>
+            
+            
+            
+            <om:binding xml:lang="en">Lay-flat</om:binding>
+            
+            
+            
+            
+            
+            
+            
+            
+          </om:Printing>
+        </rdf:_1>
+      </rdf:Seq>
+    </om:printings>
+    
+    <om:beginUpcomingStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-08-01T00:00:00</om:beginUpcomingStatus>
+    <om:customerTitle xml:lang="en">Make: Electronics</om:customerTitle>
+    
+  </om:Product><om:Product rdf:about="urn:x-domain:oreilly.com:product:9780596153755.IP" xml:lang="en" xmlns:om="http://purl.oreilly.com/ns/meta/">
+    <dc:language xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">en-US</dc:language>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <om:videoTableOfContents xml:lang="en"/>
+    
+    
+    
+    
+    <om:primarySubject rdf:resource="http://purl.oreilly.com/resource-center/electronics"/>
+    <om:primarySubject>
+      <rdf:Description rdf:about="http://www.bisg.org/standards/bisac_subject/TEC008000">
+        <dcam:memberOf rdf:resource="http://www.bisg.org/standards/bisac_subject" xmlns:dcam="http://purl.org/dc/dcam/"/>
+        <dc:title xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">TECHNOLOGY &amp; ENGINEERING / Electronics / General</dc:title>
+      </rdf:Description>
+    </om:primarySubject>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date" xmlns:dc="http://purl.org/dc/terms/">2009-11-23</dc:issued>
+    
+    
+    
+    
+    
+    <om:inPracticeAreaName xml:lang="en">Make</om:inPracticeAreaName>
+    <om:audience rdf:resource="http://purl.oreilly.com/audiences/"/>
+    
+    
+    <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime" xmlns:dc="http://purl.org/dc/terms/">2014-01-04T08:09:30.781989+00:00</dc:modified>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/7954efbfbdefbfbd3a4fefbfbdefbfbd1eefbfbdefbfbd582e4b20?remote=urn:x-domain:oreilly.com:product:9780596153755.IP">
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</trons:isValid>
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/editorial"/>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/583d25efbfbd713cefbfbd464befbfbde3c2b6959efbfbd?remote=urn:x-domain:oreilly.com:product:9780596153755.IP">
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/publicly-visible"/>
+        <trons:becauseOf xml:lang="en">Product must have at least one territory            price or be a subscription based product.</trons:becauseOf>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/3e66eea48a2defbfbdefbfbd4defbfbd3c3275efbfbd65?remote=urn:x-domain:oreilly.com:product:9780596153755.IP">
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/stalled"/>
+        <trons:becauseOf xml:lang="en">Product Status must be Pending.</trons:becauseOf>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbd5641efbfbdefbfbdefbfbdefbfbd4b34cefbfbdefbfbdefbfbd66efbfbd?remote=urn:x-domain:oreilly.com:product:9780596153755.IP">
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/discontinued"/>
+        <trons:becauseOf xml:lang="en">                  Product status must be set to one of "Publication Cancelled", "Distribution Cancelled" or "No Longer ORM Publication" in the Product Database.             </trons:becauseOf>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbd41215f9346d322a5b4b625fefbfbd522f?remote=urn:x-domain:oreilly.com:product:9780596153755.IP">
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/cancelled"/>
+        <trons:becauseOf xml:lang="en">Product must NOT have been issued (published).</trons:becauseOf>
+        <trons:becauseOf xml:lang="en">Product must set as Cancelled in the Product Database.</trons:becauseOf>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbdefbfbd516323efbfbd57efbfbdefbfbd677718675ace8d?remote=urn:x-domain:oreilly.com:product:9780596153755.IP">
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/out-of-stock-indefinitely"/>
+        <trons:becauseOf xml:lang="en">Only Books can go Out of Stock Indefinitely</trons:becauseOf>
+        <trons:becauseOf xml:lang="en">Product must have a printing status with the Oracle code Do Not Reprint or Out of Stock Indefinitely.</trons:becauseOf>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbd12efbfbd3251627cbefbfbd3845efbfbdefbfbdefbfbd4f?remote=urn:x-domain:oreilly.com:product:9780596153755.IP">
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</trons:isValid>
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/active"/>
+      </trons:Result>
+    </trons:validation>
+    <trons:validation xmlns:trons="http://purl.oreilly.com/ns/trons/">
+      <trons:Result rdf:about="http://soa.west.ora.com:8080/master-control-program/trons/efbfbdefbfbd7d4e5efbfbd2fefbfbdefbfbd2c543fefbfbdefbfbdefbfbdf?remote=urn:x-domain:oreilly.com:product:9780596153755.IP">
+        <trons:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</trons:isValid>
+        <trons:accordingTo rdf:resource="http://purl.oreilly.com/statuses/out-of-print"/>
+        <trons:becauseOf xml:lang="en">Book, PrintBookNonDistributable, DVD, Video, CD Bookshelf, PDF, EBOOK, MOBI, EPUB, EarlyReleaseEbook, AndroidApp or iPhoneApp must be Out of Print.</trons:becauseOf>
+        <trons:becauseOf xml:lang="en">Only Books, Non-distributable print books, DVDs, Videos, CD Bookshelfs, PDFs, EBOOKs, MOBIs, EPUBs, EarlyReleaseEbook, AndroidApps, and iPhoneApps can go Out Of Print.</trons:becauseOf>
+      </trons:Result>
+    </trons:validation>
+    
+    <dc:title xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Make: Electronics</dc:title>
+    <om:division rdf:resource="http://purl.oreilly.com/divisions/DIS"/>
+    <om:imprint xml:lang="en">Maker Media, Inc</om:imprint>
+    <dc:creator xmlns:dc="http://purl.org/dc/terms/">
+      <rdf:Seq rdf:about="http://deli.oreilly.com/product/urn:x-domain:oreilly.com:product:9780596153755.IP#creator">
+        <rdf:_1 rdf:resource="urn:x-domain:oreilly.com:agent:pdb:3468"/>
+      </rdf:Seq>
+    </dc:creator>
+    
+    
+    <om:byline xml:lang="en">By Charles Platt</om:byline>
+    
+    
+    
+    
+    
+    
+    
+    <om:displayableContributorList>
+      <rdf:Seq rdf:about="urn:x-domain:oreilly.com:product:9780596153755.IP#om_displayableContributorList">
+        <rdf:_1 rdf:resource="urn:x-domain:oreilly.com:agent:pdb:3468"/>
+      </rdf:Seq>
+    </om:displayableContributorList>
+    <om:subtitle xml:lang="en">Learning Through Discovery</om:subtitle>
+    
+    <om:editionLabel xml:lang="en">1st Edition</om:editionLabel>
+    <marcrel:PBD rdf:resource="urn:x-domain:oreilly.com:agent:pdb:163" xmlns:marcrel="http://www.loc.gov/loc.terms/relators/"/>
+    
+    
+    
+    
+    
+    <dc:abstract rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral" xmlns:dc="http://purl.org/dc/terms/">&lt;div&gt;&lt;p&gt;"This is teaching at its best!"&lt;br/&gt;&lt;br/&gt;
+--Hans Camenzind, inventor of the 555 timer (the world's most successful integrated circuit), and author of &lt;i&gt;Much Ado About Almost Nothing: Man's Encounter with the Electron&lt;/i&gt; (Booklocker.com)
+&lt;/p&gt;&lt;p&gt;
+"A fabulous book: well written, well paced, fun, and informative. I also love the sense of humor. It's very good at disarming the fear. And it's &lt;i&gt;gorgeous&lt;/i&gt;. I'll be recommending this book highly."&lt;br/&gt;&lt;br/&gt;
+--Tom Igoe, author of Physical Computing and Making Things Talk
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Want to learn the fundamentals of electronics in a fun, hands-on way? With &lt;i&gt;Make: Electronics&lt;/i&gt;, you'll start working on real projects as soon as you crack open the book. Explore all of the key components and essential principles through a series of fascinating experiments. You'll build the circuits first, &lt;i&gt;then&lt;/i&gt; learn the theory behind them! 
+&lt;/p&gt;&lt;p&gt;&lt;b&gt;Build working devices, from simple to complex&lt;/b&gt;
+You'll start with the basics and then move on to more complicated projects. Go from switching circuits to integrated circuits, and from simple alarms to programmable microcontrollers. Step-by-step instructions and more than 500 full-color photographs and illustrations will help you use -- and understand -- electronics concepts and techniques. 
+&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Discover by breaking things: experiment with components and learn from failure
+&lt;/li&gt;&lt;li&gt;Set up a tricked-out project space: make a work area at home, equipped with the tools and parts you'll need
+&lt;/li&gt;&lt;li&gt;Learn about key electronic components and their functions within a circuit
+&lt;/li&gt;&lt;li&gt;Create an intrusion alarm, holiday lights, wearable electronic jewelry, audio processors, a reflex tester, and a combination lock
+&lt;/li&gt;&lt;li&gt;Build an autonomous robot cart that can sense its environment and avoid obstacles
+&lt;/li&gt;&lt;li&gt;Get clear, easy-to-understand explanations of what you're doing and why&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</dc:abstract>
+    <om:videoPreview xml:lang="en"/>
+    <om:inPracticeAreaID xml:lang="en">6</om:inPracticeAreaID>
+    
+    <om:inPracticeArea rdf:resource="http://purl.oreilly.com/practice-area/Make"/>
+    <dc:identifier rdf:resource="urn:epc:id:gtin:0636920.015375" xmlns:dc="http://purl.org/dc/terms/"/>
+    <dc:identifier rdf:resource="urn:isbn:9780596153755" xmlns:dc="http://purl.org/dc/terms/"/>
+    <marcrel:EDT rdf:resource="urn:x-domain:oreilly.com:agent:pdb:471" xmlns:marcrel="http://www.loc.gov/loc.terms/relators/"/>
+    <marcrel:EDT rdf:resource="urn:x-domain:oreilly.com:agent:pdb:163" xmlns:marcrel="http://www.loc.gov/loc.terms/relators/"/>
+    <dc:hasFormat rdf:resource="urn:x-domain:oreilly.com:product:9781449388799.EPUB" xmlns:dc="http://purl.org/dc/terms/"/>
+    
+    <dc:hasFormat rdf:resource="urn:x-domain:oreilly.com:product:9780596153748.BOOK" xmlns:dc="http://purl.org/dc/terms/"/>
+    
+    <dc:hasFormat rdf:resource="urn:x-domain:oreilly.com:product:9781449323585.MOBI" xmlns:dc="http://purl.org/dc/terms/"/>
+    <dc:hasFormat rdf:resource="urn:x-domain:oreilly.com:product:9781449377267.SAF" xmlns:dc="http://purl.org/dc/terms/"/>
+    <dc:hasFormat rdf:resource="urn:x-domain:oreilly.com:product:9781449378660.EBOOK" xmlns:dc="http://purl.org/dc/terms/"/>
+    <dc:hasFormat rdf:resource="urn:x-domain:oreilly.com:product:9781449389239.PDF" xmlns:dc="http://purl.org/dc/terms/"/>
+    <dc:hasFormat rdf:resource="urn:x-domain:oreilly.com:product:9781449382094.APP" xmlns:dc="http://purl.org/dc/terms/"/>
+    <om:projectManager rdf:resource="urn:x-domain:oreilly.com:agent:pdb:4798"/>
+    
+    <dc:created xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">2007-11-13</dc:created>
+    
+    
+    
+    
+    
+    
+    
+    <dc:rightsHolder xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Helpful Corporation</dc:rightsHolder>
+    <om:approvedToAnnounceBy xml:lang="en">cindy</om:approvedToAnnounceBy>
+    
+    <dc:relation rdf:resource="urn:isbn:9780596155520" xmlns:dc="http://purl.org/dc/terms/"/>
+    <dc:relation rdf:resource="urn:isbn:9781449345228" xmlns:dc="http://purl.org/dc/terms/"/>
+    <dc:relation rdf:resource="urn:isbn:9780596510510" xmlns:dc="http://purl.org/dc/terms/"/>
+    <om:imprint_short_name xml:lang="en">MMI</om:imprint_short_name>
+    
+    
+    <dc:subject xmlns:dc="http://purl.org/dc/terms/">
+      <rdf:Description rdf:about="http://www.bisg.org/standards/bisac_subject/TEC008010">
+        <dcam:memberOf rdf:resource="http://www.bisg.org/standards/bisac_subject" xmlns:dcam="http://purl.org/dc/dcam/"/>
+        <dc:title xml:lang="en">TECHNOLOGY &amp; ENGINEERING / Electronics / Circuits / General</dc:title>
+      </rdf:Description>
+    </dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/terms/">
+      
+    </dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/terms/">
+      <rdf:Description rdf:about="http://www.bisg.org/standards/bisac_subject/TEC009000">
+        <dcam:memberOf rdf:resource="http://www.bisg.org/standards/bisac_subject" xmlns:dcam="http://purl.org/dc/dcam/"/>
+        <dc:title xml:lang="en">TECHNOLOGY &amp; ENGINEERING / Engineering (General)</dc:title>
+      </rdf:Description>
+    </dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/terms/">
+      
+    </dc:subject>
+    <dc:subject xmlns:dc="http://purl.org/dc/terms/">
+      <rdf:Description rdf:about="http://www.bisg.org/standards/bisac_subject/TEC037000">
+        <dcam:memberOf rdf:resource="http://www.bisg.org/standards/bisac_subject" xmlns:dcam="http://purl.org/dc/dcam/"/>
+        <dc:title xml:lang="en">TECHNOLOGY &amp; ENGINEERING / Robotics</dc:title>
+      </rdf:Description>
+    </dc:subject>
+    <dc:description rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral" xmlns:dc="http://purl.org/dc/terms/">&lt;p&gt;Want to learn the fundamentals of electronics in a fun, hands-on way? With &lt;i&gt;Make: Electronics&lt;/i&gt;, you'll start working on real projects as soon as you crack open the book. Explore all of the key components and essential principles through a series of fascinating experiments. You'll build the circuits first, &lt;i&gt;then&lt;/i&gt; learn the theory behind them! Step-by-step instructions and more than 500 full-color photographs and illustrations will help you use -- and understand -- electronics concepts and techniques.&lt;/p&gt;</dc:description>
+    <om:editorTitle xml:lang="en">Make: Electronics</om:editorTitle>
+    <foaf:isPrimaryTopicOf xmlns:foaf="http://xmlns.com/foaf/0.1/">
+      <foaf:Document rdf:about="http://oreilly.com/catalog/9780596153755">
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date" xmlns:dc="http://purl.org/dc/terms/">2009-09-18</dc:issued>
+        <om:endNewStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-12-01T00:00:00</om:endNewStatus>
+        <om:beginUpcomingStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-06-01T00:00:00</om:beginUpcomingStatus>
+      </foaf:Document>
+    </foaf:isPrimaryTopicOf>
+    <mods:edition xml:lang="en" xmlns:mods="http://www.loc.gov/mods/">1</mods:edition>
+    
+    <dc:publisher rdf:resource="http://purl.oreilly.com/publishers/MMI" xmlns:dc="http://purl.org/dc/terms/"/>
+    <dc:rights xml:lang="en" xmlns:dc="http://purl.org/dc/terms/">Rights reserved by the author include feature-length motion picture rights and rights to electronic game products.  Using all or part of this work in another work requires author's prior approval.  No more than 10% of content (excl. front &amp; back matter &amp; index) can appear in promotional excerpts.  Contact Legal for more info.</dc:rights>
+    
+    <trons:validAccordingTo rdf:resource="http://purl.oreilly.com/statuses/editorial" xmlns:trons="http://purl.oreilly.com/ns/trons/"/>
+    <trons:validAccordingTo rdf:resource="http://purl.oreilly.com/statuses/active" xmlns:trons="http://purl.oreilly.com/ns/trons/"/>
+    
+    
+    
+    
+    
+    
+    <om:sortableTitle xml:lang="en">make: electronics</om:sortableTitle>
+    <dc:type rdf:resource="http://purl.oreilly.com/product-types/IP" xmlns:dc="http://purl.org/dc/terms/"/>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/Collection" xmlns:dc="http://purl.org/dc/terms/"/>
+    
+    <om:asciiTitle xml:lang="en">Make: Electronics</om:asciiTitle>
+    
+    <om:customerTitle xml:lang="en">Make: Electronics</om:customerTitle>
+  </om:Product><om:ProductBiography rdf:about="http://people.oreilly.com/agent/urn:x-domain:oreilly.com:agent:pdb:3468/product-bio/urn:x-domain:oreilly.com:product:9780596153755.IP" xml:lang="en" xmlns:om="http://purl.oreilly.com/ns/meta/">
+    <om:bio rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral">&lt;p&gt;Charles Platt's first electronics project was a telephone answering machine, which he built when he was 15. He became a science fiction writer (author of The Silicon Man), taught classes in computer graphics, and was a Senior Writer at Wired magazine, but retains a lifelong love for hobby electronics and is a Contributing Editor to Make magazine.&lt;/p&gt;</om:bio>
+    <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime" xmlns:dc="http://purl.org/dc/terms/">2010-03-24T23:40:04.547740+00:00</dc:modified>
+    <om:forProduct rdf:resource="urn:x-domain:oreilly.com:product:9780596153755.IP"/>
+    <om:webBio rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral">&lt;p&gt;Charles Platt is a former science fiction writer (his best known book is probably The Silicon Man) who switched to journalism and became a senior writer for Wired magazine. Currently running a small R&amp;amp;D business in Florida, Platt pursues portrait photography as a spare-time interest, and is a longtime fan of Hong Kong martial arts movies. His favorite show is Viva La Bam on MTV. His interest in MAKE-ing gadgets began when he build a tic-tac-toe computer from telephone relays in 1966.
+Charles is a regular contributor to MAKE and is a well-known name to MAKE readers.&lt;/p&gt;</om:webBio>
+    <om:longBio rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral">&lt;p&gt;Charles Platt became interested in computers when he acquired an Ohio Scientific C4P in 1979. After writing and selling software by mail order, he taught classes in BASIC programming, MS-DOS, and subsequently Adobe Illustrator and Photoshop. He wrote five computer books during the 1980s.&lt;br/&gt;&lt;br/&gt;
+He has also written science fiction novels such as The Silicon Man (published originally by Wired books) and Protektor (from Avon Books). He stopped writing science fiction when he started contributing to Wired magazine in 1993, and became one of its three senior writers a couple of years later.&lt;br/&gt;&lt;br/&gt;
+Charles began contributing to Make magazine in its third issue and is currently a contributing editor. Make: Electronics is his first book for Make Books. Currently he is designing and building prototypes of medical equipment in his workshop in a northern Arizona wilderness area.&lt;/p&gt;</om:longBio>
+    <om:biographicalSubject rdf:resource="urn:x-domain:oreilly.com:agent:pdb:3468"/>
+  </om:ProductBiography><om:ProductBiography rdf:about="http://people.oreilly.com/agent/urn:x-domain:oreilly.com:agent:pdb:3468/product-bio/urn:x-domain:oreilly.com:product:9781449323585.MOBI" xml:lang="en" xmlns:om="http://purl.oreilly.com/ns/meta/">
+    <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime" xmlns:dc="http://purl.org/dc/terms/">2011-11-16T02:16:56.338129+00:00</dc:modified>
+    <om:bio rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral">&lt;p&gt;Charles Platt's first electronics project was a telephone answering machine, which he built when he was 15. He became a science fiction writer (author of The Silicon Man), taught classes in computer graphics, and was a Senior Writer at Wired magazine, but retains a lifelong love for hobby electronics and is a Contributing Editor to Make magazine.&lt;/p&gt;</om:bio>
+    <om:forProduct rdf:resource="urn:x-domain:oreilly.com:product:9781449323585.MOBI"/>
+    <om:webBio rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral">&lt;p&gt;Charles Platt is a former science fiction writer (his best known book is probably The Silicon Man) who switched to journalism and became a senior writer for Wired magazine. Currently running a small R&amp;amp;D business in Florida, Platt pursues portrait photography as a spare-time interest, and is a longtime fan of Hong Kong martial arts movies. His favorite show is Viva La Bam on MTV. His interest in MAKE-ing gadgets began when he build a tic-tac-toe computer from telephone relays in 1966.
+Charles is a regular contributor to MAKE and is a well-known name to MAKE readers.&lt;/p&gt;</om:webBio>
+    <om:biographicalSubject rdf:resource="urn:x-domain:oreilly.com:agent:pdb:3468"/>
+    <om:longBio rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral">&lt;p&gt;Charles Platt became interested in computers when he acquired an Ohio Scientific C4P in 1979. After writing and selling software by mail order, he taught classes in BASIC programming, MS-DOS, and subsequently Adobe Illustrator and Photoshop. He wrote five computer books during the 1980s.&lt;br/&gt;&lt;br/&gt;
+He has also written science fiction novels such as The Silicon Man (published originally by Wired books) and Protektor (from Avon Books). He stopped writing science fiction when he started contributing to Wired magazine in 1993, and became one of its three senior writers a couple of years later.&lt;br/&gt;&lt;br/&gt;
+Charles began contributing to Make magazine in its third issue and is currently a contributing editor. Make: Electronics is his first book for Make Books. Currently he is designing and building prototypes of medical equipment in his workshop in a northern Arizona wilderness area.&lt;/p&gt;</om:longBio>
+  </om:ProductBiography><om:ProductBiography rdf:about="http://people.oreilly.com/agent/urn:x-domain:oreilly.com:agent:pdb:3468/product-bio/urn:x-domain:oreilly.com:product:9781449377267.SAF" xml:lang="en" xmlns:om="http://purl.oreilly.com/ns/meta/"><om:biographicalSubject rdf:resource="urn:x-domain:oreilly.com:agent:pdb:3468"/><om:forProduct rdf:resource="urn:x-domain:oreilly.com:product:9781449377267.SAF"/><om:longBio>Charles Platt became interested in computers when he acquired an Ohio Scientific C4P in 1979. After writing and selling software by mail order, he taught classes in BASIC programming, MS-DOS, and subsequently Adobe Illustrator and Photoshop. He wrote five computer books during the 1980s.&lt;br /&gt;
+&lt;br /&gt;
+He has also written science fiction novels such as The Silicon Man (published originally by Wired books) and Protektor (from Avon Books). He stopped writing science fiction when he started contributing to Wired magazine in 1993, and became one of its three senior writers a couple of years later.&lt;br /&gt;
+&lt;br /&gt;
+Charles began contributing to Make magazine in its third issue and is currently a contributing editor. Make: Electronics is his first book for Make Books. Currently he is designing and building prototypes of medical equipment in his workshop in a northern Arizona wilderness area.</om:longBio><om:bio>Charles Platt's first electronics project was a telephone answering machine, which he built when he was 15. He became a science fiction writer (author of The Silicon Man), taught classes in computer graphics, and was a Senior Writer at Wired magazine, but retains a lifelong love for hobby electronics and is a Contributing Editor to Make magazine.</om:bio><om:webBio>Charles Platt is a former science fiction writer (his best known book is probably The Silicon Man) who switched to journalism and became a senior writer for Wired magazine. Currently running a small R&amp;D business in Florida, Platt pursues portrait photography as a spare-time interest, and is a longtime fan of Hong Kong martial arts movies. His favorite show is Viva La Bam on MTV. His interest in MAKE-ing gadgets began when he build a tic-tac-toe computer from telephone relays in 1966.
+Charles is a regular contributor to MAKE and is a well-known name to MAKE readers.</om:webBio><dc:modified xmlns:dc="http://purl.org/dc/terms/">2009-11-13T17:27:36.884180+00:00</dc:modified></om:ProductBiography><om:ProductBiography rdf:about="http://people.oreilly.com/agent/urn:x-domain:oreilly.com:agent:pdb:3468/product-bio/urn:x-domain:oreilly.com:product:9780596153755.RIGHT" xml:lang="en" xmlns:om="http://purl.oreilly.com/ns/meta/">
+    <om:longBio rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral">&lt;p&gt;Charles Platt became interested in computers when he acquired an Ohio Scientific C4P in 1979. After writing and selling software by mail order, he taught classes in BASIC programming, MS-DOS, and subsequently Adobe Illustrator and Photoshop. He wrote five computer books during the 1980s.&lt;br/&gt;&lt;br/&gt;
+He has also written science fiction novels such as The Silicon Man (published originally by Wired books) and Protektor (from Avon Books). He stopped writing science fiction when he started contributing to Wired magazine in 1993, and became one of its three senior writers a couple of years later.&lt;br/&gt;&lt;br/&gt;
+Charles began contributing to Make magazine in its third issue and is currently a contributing editor. Make: Electronics is his first book for Make Books. Currently he is designing and building prototypes of medical equipment in his workshop in a northern Arizona wilderness area.&lt;/p&gt;</om:longBio>
+    <om:biographicalSubject rdf:resource="urn:x-domain:oreilly.com:agent:pdb:3468"/>
+    <om:webBio rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral">&lt;p&gt;Charles Platt is a former science fiction writer (his best known book is probably The Silicon Man) who switched to journalism and became a senior writer for Wired magazine. Currently running a small R&amp;amp;D business in Florida, Platt pursues portrait photography as a spare-time interest, and is a longtime fan of Hong Kong martial arts movies. His favorite show is Viva La Bam on MTV. His interest in MAKE-ing gadgets began when he build a tic-tac-toe computer from telephone relays in 1966.
+Charles is a regular contributor to MAKE and is a well-known name to MAKE readers.&lt;/p&gt;</om:webBio>
+    <om:forProduct rdf:resource="urn:x-domain:oreilly.com:product:9780596153755.RIGHT"/>
+    <om:bio rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral">&lt;p&gt;Charles Platt's first electronics project was a telephone answering machine, which he built when he was 15. He became a science fiction writer (author of The Silicon Man), taught classes in computer graphics, and was a Senior Writer at Wired magazine, but retains a lifelong love for hobby electronics and is a Contributing Editor to Make magazine.&lt;/p&gt;</om:bio>
+    <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime" xmlns:dc="http://purl.org/dc/terms/">2011-11-16T02:17:03.174685+00:00</dc:modified>
+  </om:ProductBiography><om:ProductBiography rdf:about="http://people.oreilly.com/agent/urn:x-domain:oreilly.com:agent:pdb:3468/product-bio/urn:x-domain:oreilly.com:product:9781449378660.EBOOK" xml:lang="en" xmlns:om="http://purl.oreilly.com/ns/meta/">
+    <om:webBio rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral">&lt;p&gt;Charles Platt is a former science fiction writer (his best known book is probably The Silicon Man) who switched to journalism and became a senior writer for Wired magazine. Currently running a small R&amp;amp;D business in Florida, Platt pursues portrait photography as a spare-time interest, and is a longtime fan of Hong Kong martial arts movies. His favorite show is Viva La Bam on MTV. His interest in MAKE-ing gadgets began when he build a tic-tac-toe computer from telephone relays in 1966.
+Charles is a regular contributor to MAKE and is a well-known name to MAKE readers.&lt;/p&gt;</om:webBio>
+    <om:bio rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral">&lt;p&gt;Charles Platt's first electronics project was a telephone answering machine, which he built when he was 15. He became a science fiction writer (author of The Silicon Man), taught classes in computer graphics, and was a Senior Writer at Wired magazine, but retains a lifelong love for hobby electronics and is a Contributing Editor to Make magazine.&lt;/p&gt;</om:bio>
+    <om:biographicalSubject rdf:resource="urn:x-domain:oreilly.com:agent:pdb:3468"/>
+    <om:longBio rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral">&lt;p&gt;Charles Platt became interested in computers when he acquired an Ohio Scientific C4P in 1979. After writing and selling software by mail order, he taught classes in BASIC programming, MS-DOS, and subsequently Adobe Illustrator and Photoshop. He wrote five computer books during the 1980s.&lt;br/&gt;&lt;br/&gt;
+He has also written science fiction novels such as The Silicon Man (published originally by Wired books) and Protektor (from Avon Books). He stopped writing science fiction when he started contributing to Wired magazine in 1993, and became one of its three senior writers a couple of years later.&lt;br/&gt;&lt;br/&gt;
+Charles began contributing to Make magazine in its third issue and is currently a contributing editor. Make: Electronics is his first book for Make Books. Currently he is designing and building prototypes of medical equipment in his workshop in a northern Arizona wilderness area.&lt;/p&gt;</om:longBio>
+    <om:forProduct rdf:resource="urn:x-domain:oreilly.com:product:9781449378660.EBOOK"/>
+    <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime" xmlns:dc="http://purl.org/dc/terms/">2010-03-24T23:40:09.290376+00:00</dc:modified>
+  </om:ProductBiography><om:ProductBiography rdf:about="http://people.oreilly.com/agent/urn:x-domain:oreilly.com:agent:pdb:3468/product-bio/urn:x-domain:oreilly.com:product:9780596153748.BOOK" xml:lang="en" xmlns:om="http://purl.oreilly.com/ns/meta/">
+    <om:longBio rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral">&lt;p&gt;Charles Platt became interested in computers when he acquired an Ohio Scientific C4P in 1979. After writing and selling software by mail order, he taught classes in BASIC programming, MS-DOS, and subsequently Adobe Illustrator and Photoshop. He wrote five computer books during the 1980s.&lt;br/&gt;&lt;br/&gt;
+He has also written science fiction novels such as The Silicon Man (published originally by Wired books) and Protektor (from Avon Books). He stopped writing science fiction when he started contributing to Wired magazine in 1993, and became one of its three senior writers a couple of years later.&lt;br/&gt;&lt;br/&gt;
+Charles began contributing to Make magazine in its third issue and is currently a contributing editor. Make: Electronics is his first book for Make Books. Currently he is designing and building prototypes of medical equipment in his workshop in a northern Arizona wilderness area.&lt;/p&gt;</om:longBio>
+    <om:biographicalSubject rdf:resource="urn:x-domain:oreilly.com:agent:pdb:3468"/>
+    <om:bio rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral">&lt;p&gt;Charles Platt's first electronics project was a telephone answering machine, which he built when he was 15. He became a science fiction writer (author of The Silicon Man), taught classes in computer graphics, and was a Senior Writer at Wired magazine, but retains a lifelong love for hobby electronics and is a Contributing Editor to Make magazine.&lt;/p&gt;</om:bio>
+    <om:forProduct rdf:resource="urn:x-domain:oreilly.com:product:9780596153748.BOOK"/>
+    <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime" xmlns:dc="http://purl.org/dc/terms/">2010-03-24T23:40:04.742044+00:00</dc:modified>
+    <om:webBio rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral">&lt;p&gt;Charles Platt is a former science fiction writer (his best known book is probably The Silicon Man) who switched to journalism and became a senior writer for Wired magazine. Currently running a small R&amp;amp;D business in Florida, Platt pursues portrait photography as a spare-time interest, and is a longtime fan of Hong Kong martial arts movies. His favorite show is Viva La Bam on MTV. His interest in MAKE-ing gadgets began when he build a tic-tac-toe computer from telephone relays in 1966.
+Charles is a regular contributor to MAKE and is a well-known name to MAKE readers.&lt;/p&gt;</om:webBio>
+  </om:ProductBiography><om:ProductBiography rdf:about="http://people.oreilly.com/agent/urn:x-domain:oreilly.com:agent:pdb:3468/product-bio/urn:x-domain:oreilly.com:product:9780596153755.LIC" xml:lang="en" xmlns:om="http://purl.oreilly.com/ns/meta/">
+    <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime" xmlns:dc="http://purl.org/dc/terms/">2011-11-16T02:17:10.500048+00:00</dc:modified>
+    <om:longBio rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral">&lt;p&gt;Charles Platt became interested in computers when he acquired an Ohio Scientific C4P in 1979. After writing and selling software by mail order, he taught classes in BASIC programming, MS-DOS, and subsequently Adobe Illustrator and Photoshop. He wrote five computer books during the 1980s.&lt;br/&gt;&lt;br/&gt;
+He has also written science fiction novels such as The Silicon Man (published originally by Wired books) and Protektor (from Avon Books). He stopped writing science fiction when he started contributing to Wired magazine in 1993, and became one of its three senior writers a couple of years later.&lt;br/&gt;&lt;br/&gt;
+Charles began contributing to Make magazine in its third issue and is currently a contributing editor. Make: Electronics is his first book for Make Books. Currently he is designing and building prototypes of medical equipment in his workshop in a northern Arizona wilderness area.&lt;/p&gt;</om:longBio>
+    <om:webBio rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral">&lt;p&gt;Charles Platt is a former science fiction writer (his best known book is probably The Silicon Man) who switched to journalism and became a senior writer for Wired magazine. Currently running a small R&amp;amp;D business in Florida, Platt pursues portrait photography as a spare-time interest, and is a longtime fan of Hong Kong martial arts movies. His favorite show is Viva La Bam on MTV. His interest in MAKE-ing gadgets began when he build a tic-tac-toe computer from telephone relays in 1966.
+Charles is a regular contributor to MAKE and is a well-known name to MAKE readers.&lt;/p&gt;</om:webBio>
+    <om:bio rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral">&lt;p&gt;Charles Platt's first electronics project was a telephone answering machine, which he built when he was 15. He became a science fiction writer (author of The Silicon Man), taught classes in computer graphics, and was a Senior Writer at Wired magazine, but retains a lifelong love for hobby electronics and is a Contributing Editor to Make magazine.&lt;/p&gt;</om:bio>
+    <om:forProduct rdf:resource="urn:x-domain:oreilly.com:product:9780596153755.LIC"/>
+    <om:biographicalSubject rdf:resource="urn:x-domain:oreilly.com:agent:pdb:3468"/>
+  </om:ProductBiography><foaf:Person rdf:about="urn:x-domain:oreilly.com:agent:pdb:762" xml:lang="en" xmlns:foaf="http://xmlns.com/foaf/0.1/">
+    
+    <foaf:surname xml:lang="en">Kotary</foaf:surname>
+    <foaf:givenname xml:lang="en">Nancy</foaf:givenname>
+    
+    <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime" xmlns:dc="http://purl.org/dc/terms/">2010-07-06T17:10:00.284890+00:00</dc:modified>
+    <foaf:name xml:lang="en">Nancy Kotary</foaf:name>
+    <om:legalName xml:lang="en" xmlns:om="http://purl.oreilly.com/ns/meta/">Nancy Kotary</om:legalName>
+    <foaf:homepage>
+      <foaf:Document rdf:about="http://www.oreillynet.com/pub/au/677">
+        <dc:publisher rdf:resource="http://purl.oreilly.com/publishers/ORM" xmlns:dc="http://purl.org/dc/terms/"/>
+      </foaf:Document>
+    </foaf:homepage>
+  </foaf:Person><foaf:Person rdf:about="urn:x-domain:oreilly.com:agent:pdb:2986" xml:lang="en" xmlns:foaf="http://xmlns.com/foaf/0.1/">
+    
+    <om:legalName xml:lang="en" xmlns:om="http://purl.oreilly.com/ns/meta/">Mark Paglietti</om:legalName>
+    
+    <foaf:givenname xml:lang="en">Mark</foaf:givenname>
+    <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime" xmlns:dc="http://purl.org/dc/terms/">2010-07-06T17:08:54.523545+00:00</dc:modified>
+    <foaf:surname xml:lang="en">Paglietti</foaf:surname>
+    <foaf:name xml:lang="en">Mark Paglietti</foaf:name>
+  </foaf:Person><foaf:Person rdf:about="urn:x-domain:oreilly.com:agent:pdb:1212" xml:lang="en" xmlns:foaf="http://xmlns.com/foaf/0.1/">
+    <foaf:givenname xml:lang="en">Julie</foaf:givenname>
+    <foaf:surname xml:lang="en">Hawks</foaf:surname>
+    
+    <om:legalName xml:lang="en" xmlns:om="http://purl.oreilly.com/ns/meta/">Julie Hawks</om:legalName>
+    
+    <foaf:name xml:lang="en">Julie Hawks</foaf:name>
+    <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime" xmlns:dc="http://purl.org/dc/terms/">2010-07-06T17:13:03.658040+00:00</dc:modified>
+  </foaf:Person><foaf:Person rdf:about="urn:x-domain:oreilly.com:agent:pdb:471" xml:lang="en" xmlns:foaf="http://xmlns.com/foaf/0.1/">
+    
+    <foaf:mbox_sha1sum rdf:datatype="http://www.w3.org/2001/XMLSchema#string">682f845245e236690fe78d9b5590490c8de66fb6</foaf:mbox_sha1sum>
+    <foaf:givenname xml:lang="en">Brian</foaf:givenname>
+    <foaf:homepage>
+      <foaf:Document rdf:about="http://www.oreillynet.com/pub/au/125">
+        <dc:publisher rdf:resource="http://purl.oreilly.com/publishers/ORM" xmlns:dc="http://purl.org/dc/terms/"/>
+      </foaf:Document>
+    </foaf:homepage>
+    <foaf:surname xml:lang="en">Jepson</foaf:surname>
+    
+    <foaf:name xml:lang="en">Brian Jepson</foaf:name>
+    
+    <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime" xmlns:dc="http://purl.org/dc/terms/">2013-10-31T18:10:24.379502+00:00</dc:modified>
+    
+    
+    <om:legalName xml:lang="en" xmlns:om="http://purl.oreilly.com/ns/meta/">Brian Jepson</om:legalName>
+    
+  </foaf:Person><foaf:Person rdf:about="urn:x-domain:oreilly.com:agent:pdb:1441" xml:lang="en" xmlns:foaf="http://xmlns.com/foaf/0.1/">
+    <foaf:name xml:lang="en">Adam Witwer</foaf:name>
+    
+    <om:legalName xml:lang="en" xmlns:om="http://purl.oreilly.com/ns/meta/">Adam Witwer</om:legalName>
+    
+    <foaf:surname xml:lang="en">Witwer</foaf:surname>
+    <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime" xmlns:dc="http://purl.org/dc/terms/">2010-07-06T17:09:29.683051+00:00</dc:modified>
+    <foaf:givenname xml:lang="en">Adam</foaf:givenname>
+  </foaf:Person><foaf:Person rdf:about="urn:x-domain:oreilly.com:agent:pdb:163" xml:lang="en" xmlns:foaf="http://xmlns.com/foaf/0.1/">
+    <foaf:surname xml:lang="en">Dougherty</foaf:surname>
+    
+    <om:legalName xml:lang="en" xmlns:om="http://purl.oreilly.com/ns/meta/">Dale Dougherty</om:legalName>
+    
+    
+    <foaf:name xml:lang="en">Dale Dougherty</foaf:name>
+    
+    
+    <foaf:homepage>
+      <foaf:Document rdf:about="http://www.oreillynet.com/pub/au/26">
+        <dc:publisher rdf:resource="http://purl.oreilly.com/publishers/ORM" xmlns:dc="http://purl.org/dc/terms/"/>
+      </foaf:Document>
+    </foaf:homepage>
+    
+    <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime" xmlns:dc="http://purl.org/dc/terms/">2010-03-24T22:25:43.828645+00:00</dc:modified>
+    <foaf:givenname xml:lang="en">Dale</foaf:givenname>
+    <foaf:mbox_sha1sum rdf:datatype="http://www.w3.org/2001/XMLSchema#string">a01183e917f5e3f17281e7ab9ba89b59c26dc79b</foaf:mbox_sha1sum>
+  </foaf:Person><foaf:Person rdf:about="urn:x-domain:oreilly.com:agent:pdb:1619" xml:lang="en" xmlns:foaf="http://xmlns.com/foaf/0.1/">
+    
+    
+    <foaf:name xml:lang="en">Karen Montgomery</foaf:name>
+    <foaf:surname xml:lang="en">Montgomery</foaf:surname>
+    <foaf:givenname xml:lang="en">Karen</foaf:givenname>
+    
+    <om:legalName xml:lang="en" xmlns:om="http://purl.oreilly.com/ns/meta/">Karen Montgomery</om:legalName>
+    
+    <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime" xmlns:dc="http://purl.org/dc/terms/">2010-07-06T17:08:53.834810+00:00</dc:modified>
+    <foaf:mbox_sha1sum rdf:datatype="http://www.w3.org/2001/XMLSchema#string">865f2d87b7fb042262f548642ef46f326fa23f44</foaf:mbox_sha1sum>
+  </foaf:Person><foaf:Person rdf:about="urn:x-domain:oreilly.com:agent:pdb:4798" xml:lang="en" xmlns:foaf="http://xmlns.com/foaf/0.1/">
+    <foaf:surname xml:lang="en">Honscher</foaf:surname>
+    
+    
+    <foaf:givenname xml:lang="en">Pascal</foaf:givenname>
+    <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime" xmlns:dc="http://purl.org/dc/terms/">2013-11-11T09:21:00.966480+00:00</dc:modified>
+    <foaf:name xml:lang="en">Pascal Honscher</foaf:name>
+    <om:legalName xml:lang="en" xmlns:om="http://purl.oreilly.com/ns/meta/">Pascal Honscher</om:legalName>
+  </foaf:Person><foaf:Person rdf:about="urn:x-domain:oreilly.com:agent:pdb:2352" xml:lang="en" xmlns:foaf="http://xmlns.com/foaf/0.1/">
+    
+    <foaf:name xml:lang="en">Rachel Monaghan</foaf:name>
+    
+    <om:legalName xml:lang="en" xmlns:om="http://purl.oreilly.com/ns/meta/">Rachel Monaghan</om:legalName>
+    <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime" xmlns:dc="http://purl.org/dc/terms/">2010-07-06T17:12:37.453919+00:00</dc:modified>
+    <foaf:givenname xml:lang="en">Rachel</foaf:givenname>
+    <foaf:surname xml:lang="en">Monaghan</foaf:surname>
+  </foaf:Person><foaf:Person rdf:about="urn:x-domain:oreilly.com:agent:pdb:3232" xml:base="urn:x-domain:oreilly.com:agent:pdb:3232" xml:lang="en" xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:name>Heather Harmon</foaf:name><om:legalName xmlns:om="http://purl.oreilly.com/ns/meta/">Heather Harmon</om:legalName><foaf:givenname>Heather</foaf:givenname><foaf:surname>Harmon</foaf:surname><dc:modified xmlns:dc="http://purl.org/dc/terms/">2009-05-27T17:39:11.347012+00:00</dc:modified></foaf:Person><foaf:Person rdf:about="urn:x-domain:oreilly.com:agent:pdb:3468" xml:lang="en" xmlns:foaf="http://xmlns.com/foaf/0.1/">
+    
+    
+    
+    <om:legalName xml:lang="en" xmlns:om="http://purl.oreilly.com/ns/meta/">Charles Platt</om:legalName>
+    <foaf:mbox_sha1sum rdf:datatype="http://www.w3.org/2001/XMLSchema#string">666aa8e9ab4f20471a6f9bf2a2c2e60b22ff3d28</foaf:mbox_sha1sum>
+    <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime" xmlns:dc="http://purl.org/dc/terms/">2013-04-04T20:23:05.385564+00:00</dc:modified>
+    <foaf:name xml:lang="en">Charles Platt</foaf:name>
+    
+    <foaf:givenname xml:lang="en">Charles</foaf:givenname>
+    <foaf:homepage>
+      <foaf:Document rdf:about="http://www.oreillynet.com/pub/au/3839">
+        <dc:publisher rdf:resource="http://purl.oreilly.com/publishers/ORM" xmlns:dc="http://purl.org/dc/terms/"/>
+      </foaf:Document>
+    </foaf:homepage>
+    <foaf:surname xml:lang="en">Platt</foaf:surname>
+    
+  </foaf:Person></rdf:RDF>

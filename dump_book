@@ -1,0 +1,30 @@
+#!/usr/bin/ruby
+
+require 'net/http'
+require 'rexml/document'
+
+# Usage: ./dump_book ISBN
+# For example: ./dump_book 9781449356439
+# Some ISBNS to play with: 9780596153748 9781449356439 9781457183140
+
+# OPMI docs: http://labs.oreilly.com/opmi.html
+
+ARGV.each { |isbn| 
+
+  # Download the book data into the xml_data variable
+  url = "http://opmi.labs.oreilly.com/product/#{isbn}";
+  xml_data = Net::HTTP.get_response(URI.parse(url)).body
+
+  # Open the file using the builtin REXML xml parser
+  doc = REXML::Document.new(xml_data)
+
+  # Use Xpath to extract the book's title
+  title = REXML::XPath.first(doc, "//dc:title"); 
+
+  # Use XPath to extract the description (abstract includes praise quotes)
+  abstract = REXML::XPath.match(doc, "//dc:abstract");
+  abstract = abstract[0]; # Grab the first one. Could also have used XPath.first().
+
+  # Print out the formatted output
+  puts "<title>#{title.text}</title>\n#{abstract.text}\nISBN: #{isbn}"
+}
