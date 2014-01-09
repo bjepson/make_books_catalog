@@ -1,0 +1,17 @@
+#!/usr/bin/ruby
+
+require 'net/http'
+require 'rexml/document'
+
+# Open the file using the builtin REXML xml parser
+file = File.new( "onix.xml" )
+doc = REXML::Document.new file
+
+# Use Xpath to extract the products
+products = REXML::XPath.match(doc, "//Product[Imprint/NameCodeValue='MMI']"); 
+
+products.each { |product|
+    title = product.elements["Title"].elements["TitleText"]
+    puts title.text
+}
+
